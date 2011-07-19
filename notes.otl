@@ -1,0 +1,105 @@
+four rules
+	: http://www.w3.org/DesignIssues/LinkedData.html
+	1. use URIs as names for things
+	2. use HTTP URIs so that people can look up those names
+	3. when somone looks up a URI, provide useful information, using the standards (RDF*, SPARQL)
+	4. include links to other URIs, so that they can discover more things
+five stars
+	: http://lab.linkeddata.deri.ie/2010/star-scheme-by-example/
+	1. open
+		license
+		so others can see it
+	2. structured
+		use excel, not a scanned image of a table
+		others can view and manipulate the data in proprietary software
+	3. non-proprietary format
+		use csv, not excel
+		others can view and manipulate the data any way they like
+	4. use URIs
+		anyone can link to your data
+		anyone can bookmark your data
+		anyone can reuse parts of your data
+	5. link to other data to provide context
+		anyone can discover related data
+		anyone can learn about the data schema directly
+linked data vs open data vs rdf data
+	: http://blogs.ecs.soton.ac.uk/webteam/2011/07/17/linked-data-vs-open-data-vs-rdf-data/
+	open data is a policy
+	linked data is an approach
+	rdf data is a technology, a data structure
+publishing linked data on the web
+	: http://linkeddatabook.com/book
+linked data life cycles
+	: http://linked-data-life-cycles.info/
+creating, deploying and exploiting linked data
+	: http://virtuoso.openlinksw.com/presentations/Creating_Deploying_Exploiting_Linked_Data2/Creating_Deploying_Exploiting_Linked_Data2_TimBL_v3.html#(1)
+	this seems a little low-level for what they'll want
+bioinformatics
+	http://bioinformatics.knowledgeblog.org/2011/07/05/publishing-information-in-the-linked-open-data-cloud/
+portals
+	http://linkddata.org/
+	http://www.w3.org/wiki/LinkedData
+search engines
+	http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/SemanticWebSearchEngines
+browsers / clients
+	http://en.wikipedia.org/wiki/Linked_Data#Browsers
+		directory
+	http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/SemWebClients
+		directory
+	http://ode.openlinksw.com/
+data sets
+	http://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets
+		directory
+	http://dbpedia.org/About
+	LoC
+		http://www.loc.gov/index.html
+		http://id.loc.gov/
+		http://chroniclingamerica.loc.gov/about/api/#linked-data
+	http://www.census.gov/
+	http://socialarchive.iath.virginia.edu/ [SNAC]
+		aggregates entities from a number of sources
+		still in prototype phase
+	http://www.viaf.org/
+		virtual internet authority file
+		good starting point
+			search "rochester"
+			run explorer
+			-> sameAs dbpedia
+			dbpedia -> sameAs freebase
+	http://open.blogs.nytimes.com/2010/06/24/more-subject-headings-published-as-linked-open-data/
+	http://data-gov.tw.rpi.edu/wiki/Data.gov_Catalog
+interesting blogs
+	http://www.openlinksw.com/blog/~kidehen/
+linked data cloud
+	http://lod-cloud.net/
+uses in the wild
+	http://semanticweb.cs.vu.nl/lod/am/
+	http://inkdroid.org/journal/2011/03/31/snac-hacks/
+	http://www.civilwardata150.net/
+	http://data.bnf.fr/
+	http://opendata.ie/
+lodlam
+	http://lod-lam.net/
+	http://www.slideshare.net/jonvoss/intro-to-linked-open-data-in-libraries-archives-museums
+	http://obd.jisc.ac.uk/
+		business-case rationales
+		how to do it
+		focuses on open
+visualization
+	http://datavisualization.ch/opinions/introduction-to-linked-data/
+issues
+	introduction
+		https://docs.google.com/document/d/1W6UOCLgxTyM0BlPfd5hs58dh4k6CUdLW354AjjtnJfk/edit?hl=en_US
+	providence, versioning and scaling
+		https://docs.google.com/document/d/19H7veZcw-ah2-QQgTfpfgqFz7Hk75fSbN83zlRDnx5E/edit?hl=en_US
+	copyright, ip
+		http://creativecommons.org/licenses/
+		http://www.opendatacommons.org/licenses/
+	control
+		: you can put it out there, but once you do, you don't have much/any
+		: control over what people do to it
+other links
+	http://en.wikipedia.org/wiki/Authority_file
+	http://www4.wiwiss.fu-berlin.de/bizer/pub/LinkedDataTutorial/
+	http://www.google.com/search?aq=f&sourceid=chrome&ie=UTF-8&q=rdf+quads
+	http://www.w3.org/2011/rdf-wg/wiki/GraphConceptTerminology
