@@ -16,9 +16,9 @@ from rdflib import Graph
 NEWSPAPERS = 'http://chroniclingamerica.loc.gov/newspapers.rdf'
 # NEWSPAPERS = os.path.join(os.path.dirname(os.path.abspath(__file__)),
 #                           'newspapers.rdf')
-STORE  = 'newspapers.sqlite'
-OUTPUT = 'newspapers.n3'
-KML    = 'newspapers.kml'
+STORE      = 'newspapers.sqlite'
+OUTPUT     = 'newspapers.n3'
+KML_OUTPUT = 'newspapers.kml'
 
 CC        = Namespace("http://creativecommons.org/ns#")
 DC        = Namespace('http://purl.org/dc/elements/1.1/')
@@ -214,32 +214,44 @@ def query_coverage(g):
     """\
     This runs a SPARQL query that returns the title of the newspapers, their
     location, and their lat/longs.
+
+    Actually, this just queries the database, because the parser erroneously
+    thinks there's a problem with the query.
     """
     sys.stdout.write('Querying for coverage data.\n')
     sparql = '''
-        SELECT ?news ?title ?pub ?locname ?long ?lat 
+        SELECT ?news ?title ?pub ?locname ?lon ?lat 
         WHERE {
-            ?news rdf:type <http://purl.org/ontology/bibo/Newspaper> .
-            ?news dcterms:title ?title .
-            ?news dc:publisher ?pub .
-            ?news rda:placeOfPublication ?loc .
-            ?news wgs84_pos:long ?long .
-            ?news wgs84_pos:lat ?lat .
+            ?news rdf:type <http://purl.org/ontology/bibo/Newspaper> ;
+                  dcterms:title ?title ;
+                  dc:publisher ?pub ;
+                  rda:placeOfPublication ?loc ;
+                  dcterms:coverage ?cov .
+            ?cov wgs84_pos:long ?lon ;
+                 wgs84_pos:lat ?lat .
         }
         '''
 
-    return q(g, sparql)
+    for news in iter_newspapers(g):
+        for title in g.objects(news, DCTERMS['title']):
+            for pub in g.objects(news, DC['publisher']):
+                for loc in g.objects(news, RDA['placeOfPublication']):
+                    for cov in g.objects(news, DCTERMS['coverage']):
+                        for lon in g.objects(cov, WGS84_POS['long']):
+                            for lat in g.objects(cov, WGS84_POS['lat']):
+                                yield (news, title, pub, loc, lon, lat)
 
 
-def make_kml(coverage, output=KML):
+def make_kml(coverage, output=KML_OUTPUT):
     """\
     This converts the output of query_coverages and writes it to output as KML.
     """
     sys.stdout.write('Generating KML to <%s>.\n' % (output,))
     kml = ET.Element('kml', xmlns=str(KML))
+    doc = ET.SubElement(kml, 'Document')
 
     for (iri, title, pub, loc, long, lat) in coverage:
-        pm = ET.SubElement(kml, 'Placemark')
+        pm = ET.SubElement(doc, 'Placemark')
         ET.SubElement(pm, 'name').text = title
         ET.SubElement(pm, 'description').text = '''
             <strong><a href="%(iri)s">%(title)s</a></strong><br />
@@ -254,10 +266,10 @@ def make_kml(coverage, output=KML):
         ET.SubElement(p, 'coordinates').text = '%s,%s' % (long, lat)
 
     et = ET.ElementTree(kml)
-    et.write(output, 'UTF-8', True)
+    et.write(output, 'UTF-8')
 
 
-def data_to_kml(input=OUTPUT, output=KML):
+def data_to_kml(input=OUTPUT, output=KML_OUTPUT):
     """This reads the data from input and writes it to output as KML. """
     init()
 
