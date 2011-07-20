@@ -4,5 +4,6 @@ PREFIX dcterm: <http://purl.org/dc/terms/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
-SELECT DISTINCT ?p WHERE { ?s ?p ?o . } ORDER BY ?p
+# SELECT DISTINCT ?p WHERE { ?s ?p ?o . } ORDER BY ?p
+SELECT ?s ?p ?o WHERE { ?s dcterm:title ?o . } ORDER BY ?o
 
