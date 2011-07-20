@@ -1,9 +1,28 @@
 
+PREFIX cc: <http://creativecommons.org/ns#>
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
-PREFIX dcterm: <http://purl.org/dc/terms/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX frbr: <http://purl.org/vocab/frbr/core#>
+PREFIX gn: <http://www.geonames.org/ontology#>
+PREFIX kml: <http://www.opengis.net/kml/2.2>
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rda: <http://rdvocab.info/elements/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wgs84_pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 
 # SELECT DISTINCT ?p WHERE { ?s ?p ?o . } ORDER BY ?p
-SELECT ?s ?p ?o WHERE { ?s dcterm:title ?o . } ORDER BY ?o
+# SELECT ?s ?p ?o WHERE { ?s dcterm:title ?o . } ORDER BY ?o
+SELECT ?news ?title ?pub ?locname ?long ?lat 
+WHERE {
+    ?news rdf:type <http://purl.org/ontology/bibo/Newspaper> ;
+	  dcterms:title ?title ;
+	  dc:publisher ?pub ;
+	  rda:placeOfPublication ?loc ;
+	  dcterms:coverage ?cov .
+    ?cov wgs84_pos:long ?long ;
+	 wgs84_pos:lat ?lat .
+}
 
