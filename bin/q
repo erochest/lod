@@ -1,0 +1,6 @@
+#!/bin/sh
+
+BASEDIR=`dirname $0`
+
+arq --data=$BASEDIR/../data/full-newspapers.rdf --query=$BASEDIR/../data/query.spq
+
