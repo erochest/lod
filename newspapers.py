@@ -16,9 +16,10 @@ from rdflib import Graph
 NEWSPAPERS = 'http://chroniclingamerica.loc.gov/newspapers.rdf'
 # NEWSPAPERS = os.path.join(os.path.dirname(os.path.abspath(__file__)),
 #                           'newspapers.rdf')
-STORE      = 'newspapers.sqlite'
-OUTPUT     = 'newspapers.n3'
-KML_OUTPUT = 'newspapers.kml'
+BASEDIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+STORE      = os.path.join(BASEDIR, 'data', 'newspapers.sqlite')
+OUTPUT     = os.path.join(BASEDIR, 'data', 'newspapers.n3')
+KML_OUTPUT = os.path.join(BASEDIR, 'data', 'newspapers.kml')
 
 CC        = Namespace("http://creativecommons.org/ns#")
 DC        = Namespace('http://purl.org/dc/elements/1.1/')
