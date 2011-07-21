@@ -1,635 +1,647 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Arizona weekly republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89077833#title"&gt;Arizona weekly republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by T.J. Wolfley in Phoenix, Ariz..
-            </description><Point><coordinates>-112.07404,33.44838</coordinates></Point></Placemark><Placemark><name>The Progress.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064460#title"&gt;The Progress.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Cal D. Hicks &amp; G.G. Williams in Shreveport, La..
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Goodwin's weekly : a thinking paper for thinking people.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010218519#title"&gt;Goodwin's weekly : a thinking paper for thinking people.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by C.C. Goodwin, J.T. Goodwin in Salt Lake City, Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The De Soto County news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95026908#title"&gt;The De Soto County news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by De Soto Pub. Co. in Arcadia, Fla..
-            </description><Point><coordinates>-81.85842,27.21588</coordinates></Point></Placemark><Placemark><name>Daily public ledger.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069117#title"&gt;Daily public ledger.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by The Public Ledger Co. in Maysville, Ky..
-            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Paducah weekly sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052115#title"&gt;The Paducah weekly sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by The Sun Pub. Co. in Paducah, Ky..
-            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>Sunday morning courier.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010270511#title"&gt;Sunday morning courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Courier Pub. Co. in Lincoln, Neb..
-            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>Peninsula enterprise.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94060041#title"&gt;Peninsula enterprise.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.W. Edmonds in Accomac, Va..
-            </description><Point><coordinates>-75.66548,37.71957</coordinates></Point></Placemark><Placemark><name>The Leavenworth weekly times.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84027691#title"&gt;The Leavenworth weekly times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by D.R. Anthony in Leavenworth, Kan..
-            </description><Point><coordinates>-94.92246,39.31111</coordinates></Point></Placemark><Placemark><name>Fort Worth weekly gazette.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86088529#title"&gt;Fort Worth weekly gazette.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Stock Journal Pub. Co. in Fort Worth, Tex..
-            </description><Point><coordinates>-97.32085,32.72541</coordinates></Point></Placemark><Placemark><name>The San Francisco call.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85066387#title"&gt;The San Francisco call.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Charles M. Shortridge in San Francisco [Calif.].
-            </description><Point><coordinates>-122.41942,37.77493</coordinates></Point></Placemark><Placemark><name>The Coalville times.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058217#title"&gt;The Coalville times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Times Pub. Co. in Coalville, Utah.
-            </description><Point><coordinates>-111.39936,40.91773</coordinates></Point></Placemark><Placemark><name>The Labor herald.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96096625#title"&gt;The Labor herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W.H. Mullen, et. al. in Richmond, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Columbia phoenix.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84027006#title"&gt;Columbia phoenix.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Julian A. Selby in Columbia, S.C..
-            </description><Point><coordinates>-81.03481,34.00071</coordinates></Point></Placemark><Placemark><name>The Local news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85025008#title"&gt;The Local news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by E. Snowden, Jr. &amp; W.F. Carne in Alexandria, Va..
-            </description><Point><coordinates>-77.04692,38.80484</coordinates></Point></Placemark><Placemark><name>The interior journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052021#title"&gt;The interior journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by E.C. Walton in Stanford, Ky..
-            </description><Point><coordinates>-84.66189,37.53119</coordinates></Point></Placemark><Placemark><name>The labor advocate.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88077379#title"&gt;The labor advocate.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n.] in Cincinnati, Ohio.
-            </description><Point><coordinates>-84.45689,39.162</coordinates></Point></Placemark><Placemark><name>The Stark County Democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84028490#title"&gt;The Stark County Democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W. &amp; G. Dunbar, Jr. in Canton, Ohio.
-            </description><Point><coordinates>-81.37845,40.79895</coordinates></Point></Placemark><Placemark><name>Brenham weekly banner.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86089443#title"&gt;Brenham weekly banner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Rankin &amp; McCrimmon in Brenham, Tex..
-            </description><Point><coordinates>-96.39774,30.16688</coordinates></Point></Placemark><Placemark><name>The Daily state journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024670#title"&gt;The Daily state journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Whittlesey &amp; Gillis in Alexandria, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Daily state journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024670#title"&gt;The Daily state journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Whittlesey &amp; Gillis in Alexandria, Va..
-            </description><Point><coordinates>-77.04692,38.80484</coordinates></Point></Placemark><Placemark><name>The Coconino sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87062055#title"&gt;The Coconino sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by C.M. Funston in Flagstaff, Ariz..
-            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>The Tombstone epitaph.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016455#title"&gt;The Tombstone epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Clum, Sorin &amp; Co. in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Tombstone daily epitaph.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96060681#title"&gt;Tombstone daily epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.O. Dunbar in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The Lexington standard.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83025729#title"&gt;The Lexington standard.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by R.C.O. Benjamin in Lexington, Ky..
-            </description><Point><coordinates>-84.47772,37.98869</coordinates></Point></Placemark><Placemark><name>Richmond planet.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84025841#title"&gt;Richmond planet.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Planet Pub. Co. in Richmond, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Kentucky vindicator.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn2007058208#title"&gt;The Kentucky vindicator.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W.M. Likins, C.T. Likins, J. Karl Taylor in Owenboro, Ky..
-            </description><Point><coordinates>-87.11333,37.77422</coordinates></Point></Placemark><Placemark><name>The Salt Lake herald.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058130#title"&gt;The Salt Lake herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W.C. Dunbar &amp; E.L. Sloan] in Salt Lake City [Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Washington farmer.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn98047755#title"&gt;Washington farmer.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Washington Farmer in Spokane, Wash..
-            </description><Point><coordinates>-117.42605,47.65878</coordinates></Point></Placemark><Placemark><name>The Hartford republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069313#title"&gt;The Hartford republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Barnett &amp; Milligan in Hartford, Ky..
-            </description><Point><coordinates>-86.90916,37.45116</coordinates></Point></Placemark><Placemark><name>Gulf Coast breeze.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047266#title"&gt;Gulf Coast breeze.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by R. Don McLeod, Jr. in Crawfordville, Fla..
-            </description><Point><coordinates>-84.37518,30.17604</coordinates></Point></Placemark><Placemark><name>Tombstone weekly epitaph.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060906#title"&gt;Tombstone weekly epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Epitaph Print. and Pub. Co. in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Liberty.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88061275#title"&gt;Liberty.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Liberty Pub. Co. in La Center, Ky..
-            </description><Point><coordinates>-88.97368,37.07672</coordinates></Point></Placemark><Placemark><name>The daily herald.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047239#title"&gt;The daily herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [D. Logan] in Honolulu, Hawaiian Islands.
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Arizona republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84020558#title"&gt;Arizona republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Republican Pub. Co. in Phoenix, Ariz..
-            </description><Point><coordinates>-112.07404,33.44838</coordinates></Point></Placemark><Placemark><name>The Honolulu republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047165#title"&gt;The Honolulu republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by R. Grieve Pub. Co. in Honolulu, T.H..
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Twice-a-week record-press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069459#title"&gt;Twice-a-week record-press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by N.E. Calmes in Marion, Ky..
-            </description><Point><coordinates>-88.08113,37.33283</coordinates></Point></Placemark><Placemark><name>Corpus Christi caller and daily herald.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86088527#title"&gt;Corpus Christi caller and daily herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by The Caller Pub. Co. in Corpus Christi, Tex..
-            </description><Point><coordinates>-97.39638,27.80058</coordinates></Point></Placemark><Placemark><name>Kentucky reporter.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069325#title"&gt;Kentucky reporter.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [Kentucky Reporter Pub. Co.] in Owensboro, Ky..
-            </description><Point><coordinates>-87.11333,37.77422</coordinates></Point></Placemark><Placemark><name>The evening bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87060190#title"&gt;The evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Rosser &amp; McCarthy in Maysville, Ky..
-            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Daily bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016412#title"&gt;The Daily bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.W. Robertson in Honolulu [Hawaii].
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Daily capital journal.</name><description>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Daily capital journal.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063957#title"&gt;Daily capital journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Hofer Bros. in Salem, Or..
-            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The Evening herald.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063812#title"&gt;The Evening herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Herald Pub. Co. in Klamath Falls, Or..
-            </description><Point><coordinates>-121.78167,42.22487</coordinates></Point></Placemark><Placemark><name>The Imperial press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn92070143#title"&gt;The Imperial press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Edgar F. Howe in Imperial, Cal..
-            </description><Point><coordinates>-115.56944,32.84755</coordinates></Point></Placemark><Placemark><name>Wichita eagle.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032575#title"&gt;Wichita eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by M.M. Murdock &amp; Bro. in Wichita, Kan..
-            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The Hartford herald.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84037890#title"&gt;The Hartford herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jno. P. Barrett &amp; Co. in Hartford, Ky..
-            </description><Point><coordinates>-86.90916,37.45116</coordinates></Point></Placemark><Placemark><name>Blue-grass blade.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069867#title"&gt;Blue-grass blade.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Blade Pub. Co. in Lexington, Ky..
-            </description><Point><coordinates>-84.45689,39.162</coordinates></Point></Placemark><Placemark><name>Blue-grass blade.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069867#title"&gt;Blue-grass blade.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Blade Pub. Co. in Lexington, Ky..
-            </description><Point><coordinates>-84.47772,37.98869</coordinates></Point></Placemark><Placemark><name>The Arizona champion.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016246#title"&gt;The Arizona champion.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by A.E. Fay in Peach Springs, Mohave County, A.T. [Ariz.].
-            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>Shreveport daily news.</name><description>
+            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The Tomahawk.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89064695#title"&gt;The Tomahawk.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Gus H. Beaulieu in White Earth, Becker County, Minn..
+            </description><Point><coordinates>-95.84338,47.09663</coordinates></Point></Placemark><Placemark><name>The Brownsville daily herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86099906#title"&gt;The Brownsville daily herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jesse O. Wheeler in Brownsville, Tex..
+            </description><Point><coordinates>-97.49748,25.90175</coordinates></Point></Placemark><Placemark><name>The Evening herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87078000#title"&gt;The Evening herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.C. Boyer in Shenandoah, Pa..
+            </description><Point><coordinates>-76.20077,40.82037</coordinates></Point></Placemark><Placemark><name>Mount Vernon signal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069561#title"&gt;Mount Vernon signal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by James Maret in Mt. Vernon, Ky..
+            </description><Point><coordinates>-84.34049,37.35286</coordinates></Point></Placemark><Placemark><name>Medford mail tribune.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/97071090#title"&gt;Medford mail tribune.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Medford Mail Tribune in Medford, Or..
+            </description><Point><coordinates>-122.87559,42.32652</coordinates></Point></Placemark><Placemark><name>Shreveport daily news.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064478#title"&gt;Shreveport daily news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Jno. Dickinson in Shreveport, La..
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The daily phoenix.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84027008#title"&gt;The daily phoenix.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Julian A. Selby in Columbia, S.C..
-            </description><Point><coordinates>-81.03481,34.00071</coordinates></Point></Placemark><Placemark><name>Fort Pierce news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96027172#title"&gt;Fort Pierce news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Arthur B. Brosn in Fort Pierce, Fla..
-            </description><Point><coordinates>-80.32561,27.44671</coordinates></Point></Placemark><Placemark><name>The Stanford interior journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052022#title"&gt;The Stanford interior journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Shelton Saufley in Stanford, Ky..
-            </description><Point><coordinates>-84.66189,37.53119</coordinates></Point></Placemark><Placemark><name>The daily eagle.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045705#title"&gt;The daily eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by M.M. Murdock &amp; R.P. Murdock in Wichita, Kan..
-            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>Graham guardian.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060914#title"&gt;Graham guardian.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Guardian Pub. Co. in Safford, Ariz..
-            </description><Point><coordinates>-109.70758,32.83395</coordinates></Point></Placemark><Placemark><name>The Paducah sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052116#title"&gt;The Paducah sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Sun Pub. Co. in Paducah, Ky..
-            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The Tombstone.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96060683#title"&gt;The Tombstone.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by James J. Nash in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The daily news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96027213#title"&gt;The daily news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by News Pub. Co. in Pensacola, Fla..
-            </description><Point><coordinates>-87.21691,30.42131</coordinates></Point></Placemark><Placemark><name>Waco evening news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87090385#title"&gt;Waco evening news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by The News Co. in Waco, Tex..
-            </description><Point><coordinates>-97.14667,31.54933</coordinates></Point></Placemark><Placemark><name>Kansas City journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86063615#title"&gt;Kansas City journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Journal Co. in Kansas City, Mo..
-            </description><Point><coordinates>-94.57857,39.09973</coordinates></Point></Placemark><Placemark><name>The ranch.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2007252175#title"&gt;The ranch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n. in North Yakima, Wash..
-            </description><Point><coordinates>-120.5059,46.60207</coordinates></Point></Placemark><Placemark><name>Daily Tombstone epitaph.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96060682#title"&gt;Daily Tombstone epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Record Epitaph Pub. Co. in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The Intermountain Catholic.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn93062856#title"&gt;The Intermountain Catholic.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Intermountain Catholic Pub. Co. in Salt Lake City [Utah] ;.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Hawaii holomua.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047059#title"&gt;Hawaii holomua.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Hui Hoolaha Nupepa Hawaii Holomua in Honolulu.
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Shreveport semi-weekly news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064479#title"&gt;Shreveport semi-weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jno. Dickinson in Shreveport [La.].
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The Shreveport weekly news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064477#title"&gt;The Shreveport weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jno. Dickinson in Shreveport, La..
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The Independent.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047097#title"&gt;The Independent.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n.] in Honolulu, H.I..
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The soldiers' journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89038091#title"&gt;The soldiers' journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by R.A. Cassidy in Rendevous of Distribution, Va..
-            </description><Point><coordinates>-77.04692,38.80484</coordinates></Point></Placemark><Placemark><name>Hawaii holomua = Progress.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016410#title"&gt;Hawaii holomua = Progress.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Holomua Pub. Co. in Honolulu.
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Hawaiian gazette.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83025121#title"&gt;The Hawaiian gazette.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Published ... by J.H. Black at the Govt. Print. Off. in Honolulu [Oahu, Hawaii].
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Paducah evening sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052114#title"&gt;The Paducah evening sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Sun Pub. Co. in Paducah, Ky..
-            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The Seattle Republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84025811#title"&gt;The Seattle Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Republican Pub. Co. in Seattle, Wash..
-            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The daily democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn97070127#title"&gt;The daily democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Democrat Pub. Co. in Anadarko, Okla..
-            </description><Point><coordinates>-98.24366,35.07256</coordinates></Point></Placemark><Placemark><name>Richmond dispatch.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85038614#title"&gt;Richmond dispatch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Dispatch Co. in Richmond, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Yakima herald.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085523#title"&gt;The Yakima herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Reed &amp; Coe in North Yakima, W.T. [Wash.].
-            </description><Point><coordinates>-120.5059,46.60207</coordinates></Point></Placemark><Placemark><name>Crittenden record=press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069458#title"&gt;Crittenden record=press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by S.M. Jenkins in Marion, Ky..
-            </description><Point><coordinates>-88.08113,37.33283</coordinates></Point></Placemark><Placemark><name>Shreveport weekly news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064482#title"&gt;Shreveport weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jno. Dickinson in Shreveport, La..
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The Weekly Tallahasseean.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047416#title"&gt;The Weekly Tallahasseean.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by John G. Collins in Tallahassee, Fla..
-            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>Safford rattler.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn2004060008#title"&gt;Safford rattler.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by R.S. Patterson in Safford, Ariz..
-            </description><Point><coordinates>-109.70758,32.83395</coordinates></Point></Placemark><Placemark><name>Truth.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058310#title"&gt;Truth.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Truth Pub. Co. in Salt Lake City, Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Louisiana capitolian.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064592#title"&gt;Louisiana capitolian.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W.A. LeSueur in Baton Rouge, La..
-            </description><Point><coordinates>-91.15455,30.45075</coordinates></Point></Placemark><Placemark><name>The daily dispatch.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024738#title"&gt;The daily dispatch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.A. Cowardin in Richmond, [Va.].
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Saint Paul globe.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn90059523#title"&gt;The Saint Paul globe.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n.] in St. Paul, Minn..
-            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>The Cairo daily bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88074142#title"&gt;The Cairo daily bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by John H. Oberly &amp; Co. in Cairo, Ill..
-            </description><Point><coordinates>-89.17646,37.00533</coordinates></Point></Placemark><Placemark><name>The commoner.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/46032385#title"&gt;The commoner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by William J. Bryan in Lincoln, Neb..
-            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>Dodge City times.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84029838#title"&gt;Dodge City times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W.C. Shinn in Dodge City, Kan..
-            </description><Point><coordinates>-100.01708,37.7528</coordinates></Point></Placemark><Placemark><name>The Northwest worker.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085770#title"&gt;The Northwest worker.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Press Committee of the Socialist Party in Everett, Wash..
-            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>Wichita daily eagle.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045789#title"&gt;Wichita daily eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by M.M. Murdock &amp; R.P. Murdcock in Wichita, Kan..
-            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The Cairo evening bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88074143#title"&gt;The Cairo evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by John H. Oberly &amp; Co. in Cairo, Ill..
-            </description><Point><coordinates>-89.17646,37.00533</coordinates></Point></Placemark><Placemark><name>The Wichita city eagle.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032573#title"&gt;The Wichita city eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Marshall M. Murdock in Wichita, Kan..
-            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The Columbia daily phoenix.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84027007#title"&gt;The Columbia daily phoenix.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Julian A. Selby in Columbia, S.C..
-            </description><Point><coordinates>-81.03481,34.00071</coordinates></Point></Placemark><Placemark><name>Wichita eagle.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032490#title"&gt;Wichita eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by M.M. Murdock &amp; R.D. Murdock in Wichita, Kan..
-            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>Saturday morning courier.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010270512#title"&gt;Saturday morning courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Courier Pub. Co. in Lincoln, Neb..
-            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>Daily evening bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069124#title"&gt;Daily evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by s.n.] in Maysville [Ky..
-            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>Cayton's weekly.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093353#title"&gt;Cayton's weekly.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by H.R. Cayton in Seattle, Wash..
-            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The Skylight kicker.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050555#title"&gt;The Skylight kicker.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by R.H &amp; J.E. Jones in Flagstaff, Ariz..
-            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>The Coconino sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016245#title"&gt;The Coconino sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by C.M. Funston in Flagstaff, Ariz..
-            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>The Daily morning astorian.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96061150#title"&gt;The Daily morning astorian.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.F. Halloran &amp; Co. in Astoria, Or..
-            </description><Point><coordinates>-123.83125,46.18788</coordinates></Point></Placemark><Placemark><name>The times.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85034438#title"&gt;The times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Times Co. in Richmond, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Austin's Hawaiian weekly.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047152#title"&gt;Austin's Hawaiian weekly.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by F. Austin] in Honolulu [Hawaii.
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Virginian-pilot.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071779#title"&gt;Virginian-pilot.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Virginian and Pilot Pub. Co. in Norfolk, Va..
-            </description><Point><coordinates>-76.28522,36.84681</coordinates></Point></Placemark><Placemark><name>The broad ax.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024055#title"&gt;The broad ax.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Julius F. Taylor in Salt Lake City, Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>St. Paul daily globe.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn90059522#title"&gt;St. Paul daily globe.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by St. Paul Globe Print. Co. in Saint Paul, Minn..
-            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>The Washington socialist.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085769#title"&gt;The Washington socialist.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Washington Socialist Pub. Co. in Everett, Wash..
-            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>The interior journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84038328#title"&gt;The interior journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Hilton &amp; Campbell in Stanford, Ky..
-            </description><Point><coordinates>-84.66189,37.53119</coordinates></Point></Placemark><Placemark><name>The Jewish South.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94051168#title"&gt;The Jewish South.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Herbert T. Ezekiel in Richmond, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The weekly true Democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047417#title"&gt;The weekly true Democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by John G. Collins in Tallahassee, Fla..
-            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>The Wichita daily eagle.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014635#title"&gt;The Wichita daily eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by M.M. Murdock &amp; R.P. Murdock in Wichita, Kan..
-            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>Saturday press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014681#title"&gt;Saturday press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Published for the Saturday Press by R. Grieve in Honolulu, H.I..
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Seattle star.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093407#title"&gt;The Seattle star.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by E.H. Wells &amp; Co. in Seattle, Wash..
-            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>Evening bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016413#title"&gt;Evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by s.n.] in Honolulu [Oahu, Hawaii.
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Semi-weekly news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064481#title"&gt;Semi-weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jno. Dickinson in Shreveport [La.].
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The Tulsa star.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86064118#title"&gt;The Tulsa star.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Tulsa Star Print. and Pub. Co. in Tulsa, Okla..
-            </description><Point><coordinates>-95.99278,36.15398</coordinates></Point></Placemark><Placemark><name>Anadarko daily democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn97070123#title"&gt;Anadarko daily democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Shaw &amp; Monroe in Anadarko, Okla..
-            </description><Point><coordinates>-98.24366,35.07256</coordinates></Point></Placemark><Placemark><name>Imperial press and farmer.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn92070142#title"&gt;Imperial press and farmer.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Edgar F. Howe in Imperial, San Diego County, Cal..
-            </description><Point><coordinates>-115.56944,32.84755</coordinates></Point></Placemark><Placemark><name>The public ledger.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85038022#title"&gt;The public ledger.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by A.F. Curran in Maysville, Ky..
-            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>Tombstone epitaph.</name><description>
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Tombstone epitaph.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060905#title"&gt;Tombstone epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Reppy &amp; Peck in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The Cairo bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85033413#title"&gt;The Cairo bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by John H. Oberly in Cairo, Ill..
-            </description><Point><coordinates>-89.17646,37.00533</coordinates></Point></Placemark><Placemark><name>The co-operative news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085771#title"&gt;The co-operative news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Pugent Press in Everett, Wash..
-            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>The Inter-mountain farmer and ranchman.</name><description>
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Weekly Arizona citizen.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016240#title"&gt;Weekly Arizona citizen.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by R.C. Brown in Tucson, Ariz..
+            </description><Point><coordinates>-110.92648,32.22174</coordinates></Point></Placemark><Placemark><name>Cochise review and Arizona daily orb.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050506#title"&gt;Cochise review and Arizona daily orb.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Bisbee News Co. in Bisbee, Ariz..
+            </description><Point><coordinates>-109.92841,31.44815</coordinates></Point></Placemark><Placemark><name>Goodwin's weekly : a thinking paper for thinking people.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010218519#title"&gt;Goodwin's weekly : a thinking paper for thinking people.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by C.C. Goodwin, J.T. Goodwin in Salt Lake City, Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Daily evening bulletin.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069124#title"&gt;Daily evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by s.n.] in Maysville [Ky..
+            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Saint Paul globe.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn90059523#title"&gt;The Saint Paul globe.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n.] in St. Paul, Minn..
+            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>Capital journal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063954#title"&gt;Capital journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Capital Journal Pub. Co. in Salem, Or..
+            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>Tombstone prospector.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060903#title"&gt;Tombstone prospector.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.C. Bagg in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Arizona weekly republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89077833#title"&gt;Arizona weekly republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by T.J. Wolfley in Phoenix, Ariz..
+            </description><Point><coordinates>-112.07404,33.44838</coordinates></Point></Placemark><Placemark><name>The Arizona daily orb.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050505#title"&gt;The Arizona daily orb.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by A.W. Howe in Bisbee, Ariz..
+            </description><Point><coordinates>-109.92841,31.44815</coordinates></Point></Placemark><Placemark><name>Roanoke daily times.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88061182#title"&gt;Roanoke daily times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n.] in Roanoke, Va.
+            </description><Point><coordinates>-79.94143,37.27097</coordinates></Point></Placemark><Placemark><name>The Daily journal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063956#title"&gt;The Daily journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Hofer Bros. in Salem, Or..
+            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The Inter-mountain farmer and ranchman.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010218500#title"&gt;The Inter-mountain farmer and ranchman.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Tribune Pub. Co. in Salt Lake City, Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Evening bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069125#title"&gt;Evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Rosser &amp; McCarthy in Maysville [Ky.].
-            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Waco daily examiner.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84022109#title"&gt;The Waco daily examiner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.W. Downs in Waco, Tex..
-            </description><Point><coordinates>-97.14667,31.54933</coordinates></Point></Placemark><Placemark><name>Daily gazette and comet.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88083120#title"&gt;Daily gazette and comet.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Geo. A. Pike &amp; W.H. Crenshaw in Baton Rouge, La..
-            </description><Point><coordinates>-91.15455,30.45075</coordinates></Point></Placemark><Placemark><name>Capital city courier.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010270510#title"&gt;Capital city courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Wessel &amp; Dobbins in Lincoln, Neb..
-            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>The Charleston daily news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84026994#title"&gt;The Charleston daily news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Cathcart, McMillan &amp; Morton in Charleston, S.C..
-            </description><Point><coordinates>-79.93092,32.77657</coordinates></Point></Placemark><Placemark><name>The Daytona daily news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn93063916#title"&gt;The Daytona daily news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Geo. F. Crouch in Daytona, Fla..
-            </description><Point><coordinates>-81.02283,29.21081</coordinates></Point></Placemark><Placemark><name>The Honolulu times.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047211#title"&gt;The Honolulu times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by A.M. Prescott] in Honolulu [Hawaii.
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Crittenden press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069457#title"&gt;Crittenden press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by R.C. Walker in Marion, Ky..
-            </description><Point><coordinates>-88.08113,37.33283</coordinates></Point></Placemark><Placemark><name>The Daily Tombstone.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94052361#title"&gt;The Daily Tombstone.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by James J. Nash in Tombstone, Ariz..
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The Roanoke times.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95079490#title"&gt;The Roanoke times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Roanoke Pub. Co. in Roanoke, Va..
+            </description><Point><coordinates>-79.94143,37.27097</coordinates></Point></Placemark><Placemark><name>Weekly journal-miner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032923#title"&gt;Weekly journal-miner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Journal-Miner Pub. Co. in Prescott, Ariz..
+            </description><Point><coordinates>-112.4685,34.54002</coordinates></Point></Placemark><Placemark><name>The Weekly Tallahasseean.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047416#title"&gt;The Weekly Tallahasseean.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by John G. Collins in Tallahassee, Fla..
+            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>The Big Stone post.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87060150#title"&gt;The Big Stone post.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Big Stone Post Pub. Co. in Big Stone Gap, Va..
+            </description><Point><coordinates>-82.78711,36.88204</coordinates></Point></Placemark><Placemark><name>Arizona weekly miner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014898#title"&gt;Arizona weekly miner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.H. Marion in Prescott, Ariz..
+            </description><Point><coordinates>-112.4685,34.54002</coordinates></Point></Placemark><Placemark><name>The Scranton tribune.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84026355#title"&gt;The Scranton tribune.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Tribune Pub. Co. in Scranton, Pa..
+            </description><Point><coordinates>-75.66241,41.40897</coordinates></Point></Placemark><Placemark><name>The Arizona kicker.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060900#title"&gt;The Arizona kicker.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.C. Bagg in Tombstone, Ariz..
             </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Evening capital journal.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063952#title"&gt;Evening capital journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Capital Journal Pub. Co. in Salem, Or..
-            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The Norfolk post.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85038624#title"&gt;The Norfolk post.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n.] in Norfolk, Va..
-            </description><Point><coordinates>-76.28522,36.84681</coordinates></Point></Placemark><Placemark><name>Fort Worth daily gazette.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86064205#title"&gt;Fort Worth daily gazette.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Stock Journal Pub. Co. in Fort Worth, Tex..
-            </description><Point><coordinates>-97.32085,32.72541</coordinates></Point></Placemark><Placemark><name>Woman's enterprise.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89059303#title"&gt;Woman's enterprise.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Mattie B. McGrath in Baton Rouge, La..
-            </description><Point><coordinates>-91.15455,30.45075</coordinates></Point></Placemark><Placemark><name>The central record.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069201#title"&gt;The central record.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Cartwright &amp; Landrum in Lancaster, Ky..
-            </description><Point><coordinates>-84.578,37.61952</coordinates></Point></Placemark><Placemark><name>Straight-out democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn92065612#title"&gt;Straight-out democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Henry S. Farley in Columbia, S.C..
-            </description><Point><coordinates>-81.03481,34.00071</coordinates></Point></Placemark><Placemark><name>The climax.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069161#title"&gt;The climax.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Climax Print. Co. in Richmond, Madison County, Ky..
-            </description><Point><coordinates>-84.29465,37.74786</coordinates></Point></Placemark><Placemark><name>Anadarko morning democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn97070126#title"&gt;Anadarko morning democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W.B. Stephens in Anadarko, Okla..
-            </description><Point><coordinates>-98.24366,35.07256</coordinates></Point></Placemark><Placemark><name>The Salt Lake herald-Republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058140#title"&gt;The Salt Lake herald-Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [Herald-Republican Pub. Co.] in Salt Lake City, Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Daily globe.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83025287#title"&gt;Daily globe.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by H.P. Hall in St. Paul, Minn..
-            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>Salt Lake evening Democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058117#title"&gt;Salt Lake evening Democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Salt Lake Democrat Co. in Salt Lake City, Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Owingsville outlook.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069620#title"&gt;Owingsville outlook.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by T. J. Young in Owingsville, Ky..
-            </description><Point><coordinates>-83.76408,38.1448</coordinates></Point></Placemark><Placemark><name>Tombstone prospector.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060903#title"&gt;Tombstone prospector.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by S.C. Bagg in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The Abilene reflector.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84029385#title"&gt;The Abilene reflector.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Strother Brothers in Abilene, Kan..
-            </description><Point><coordinates>-97.21391,38.91722</coordinates></Point></Placemark><Placemark><name>The Democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016408#title"&gt;The Democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by H.A. Juen in Honolulu, T.H..
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Tombstone epitaph.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84021939#title"&gt;The Tombstone epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Clum, Sorin &amp; Co. in Tombstone, Pima County, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The interior journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052023#title"&gt;The interior journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Shelton M. Saufley in Stanford, Ky..
-            </description><Point><coordinates>-84.66189,37.53119</coordinates></Point></Placemark><Placemark><name>The Pensacola journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87062268#title"&gt;The Pensacola journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Mayes &amp; Co. in Pensacola, Fla..
-            </description><Point><coordinates>-87.21691,30.42131</coordinates></Point></Placemark><Placemark><name>The university news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96027438#title"&gt;The university news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n.] in Gainesville, Fla..
-            </description><Point><coordinates>-82.32483,29.65163</coordinates></Point></Placemark><Placemark><name>Tombstone daily prospector.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060902#title"&gt;Tombstone daily prospector.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Nash &amp; Tilden in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Tri-weekly phoenix.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84027005#title"&gt;Tri-weekly phoenix.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.A. Selby] in [Columbia, S.C..
-            </description><Point><coordinates>-81.03481,34.00071</coordinates></Point></Placemark><Placemark><name>Gainesville daily sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95026977#title"&gt;Gainesville daily sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by H.H. McCreary in Gainesville, Fla..
-            </description><Point><coordinates>-82.32483,29.65163</coordinates></Point></Placemark><Placemark><name>The appeal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016810#title"&gt;The appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Northwestern Pub. Co. in Saint Paul, Minn. ;.
-            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>The Corpus Christi caller.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071134#title"&gt;The Corpus Christi caller.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Caller Pub. Co. in Corpus Christi, Tex..
-            </description><Point><coordinates>-97.39638,27.80058</coordinates></Point></Placemark><Placemark><name>Alexandria gazette.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85025007#title"&gt;Alexandria gazette.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Edgar Snowden in Alexandria, D.C..
-            </description><Point><coordinates>-77.04692,38.80484</coordinates></Point></Placemark><Placemark><name>Columbia phoenix.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84027004#title"&gt;Columbia phoenix.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by J.A. Selby in Columbia, S.C..
-            </description><Point><coordinates>-81.03481,34.00071</coordinates></Point></Placemark><Placemark><name>The ranch.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn98047754#title"&gt;The ranch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n. in Seattle, Wash..
-            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>Crittenden record-press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069460#title"&gt;Crittenden record-press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by N.E. Calmes in Marion, Ky..
-            </description><Point><coordinates>-88.08113,37.33283</coordinates></Point></Placemark><Placemark><name>The weekly republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89077832#title"&gt;The weekly republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Republican Pub. Co. in Phoenix, [Ariz.].
-            </description><Point><coordinates>-112.07404,33.44838</coordinates></Point></Placemark><Placemark><name>The Daily times.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071854#title"&gt;The Daily times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Times Pub. Co. in Richmond, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Deseret evening news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045555#title"&gt;Deseret evening news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by G.Q. Cannon in Great Salt Lake City [Utah].
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Imperial press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn98061398#title"&gt;Imperial press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Henry C. Reed in Imperial, Cal..
-            </description><Point><coordinates>-115.56944,32.84755</coordinates></Point></Placemark><Placemark><name>Semi-weekly interior journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052020#title"&gt;Semi-weekly interior journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by W.P. Walton in Stanford, Ky..
-            </description><Point><coordinates>-84.66189,37.53119</coordinates></Point></Placemark><Placemark><name>The Semi-weekly Shreveport news.</name><description>
+            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The Semi-weekly Shreveport news.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86079090#title"&gt;The Semi-weekly Shreveport news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Thos.H. Manning in Shreveport [La.].
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The Daily journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063956#title"&gt;The Daily journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Hofer Bros. in Salem, Or..
-            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The Coconino weekly sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87062054#title"&gt;The Coconino weekly sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by C.M. Funston in Flagstaff, Ariz..
-            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>Daily Honolulu press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047264#title"&gt;Daily Honolulu press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n.] in Honolulu, Hawaiian Islands.
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Morning Tulsa daily world.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85042345#title"&gt;The Morning Tulsa daily world.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by World Pub. Co. in Tulsa, Okla..
-            </description><Point><coordinates>-95.99278,36.15398</coordinates></Point></Placemark><Placemark><name>The Call-chronicle-examiner.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82015732#title"&gt;The Call-chronicle-examiner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n.] in San Francisco, Calif..
-            </description><Point><coordinates>-122.41942,37.77493</coordinates></Point></Placemark><Placemark><name>Tri-weekly astorian.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96061148#title"&gt;Tri-weekly astorian.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by D.C. Ireland in Astoria, Or..
-            </description><Point><coordinates>-123.83125,46.18788</coordinates></Point></Placemark><Placemark><name>The Daily Republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093449#title"&gt;The Daily Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by H.R. Cayton in Seattle, Wash..
-            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>Cayton's monthly.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093354#title"&gt;Cayton's monthly.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by H.R. Cayton in Seattle, Wash..
-            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>Paducah sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052117#title"&gt;Paducah sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Sun Pub. Co. in Paducah, Ky..
-            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The San Francisco call and post.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86064451#title"&gt;The San Francisco call and post.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by F.W. Kellogg in San Francisco, Calif..
-            </description><Point><coordinates>-122.41942,37.77493</coordinates></Point></Placemark><Placemark><name>The Commonwealth.</name><description>
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Sunday morning courier.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010270511#title"&gt;Sunday morning courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Courier Pub. Co. in Lincoln, Neb..
+            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>Truth.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058310#title"&gt;Truth.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Truth Pub. Co. in Salt Lake City, Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The Hartford herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84037890#title"&gt;The Hartford herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jno. P. Barrett &amp; Co. in Hartford, Ky..
+            </description><Point><coordinates>-86.90916,37.45116</coordinates></Point></Placemark><Placemark><name>Gainesville daily sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95026977#title"&gt;Gainesville daily sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.H. McCreary in Gainesville, Fla..
+            </description><Point><coordinates>-82.32483,29.65163</coordinates></Point></Placemark><Placemark><name>The commoner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/46032385#title"&gt;The commoner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by William J. Bryan in Lincoln, Neb..
+            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>The Commonwealth.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84025731#title"&gt;The Commonwealth.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Commonwealth Pub. Co. in Everett, Wash..
-            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>The morning sun.</name><description>
+            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>The Lehi banner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058090#title"&gt;The Lehi banner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Lehi Pub. Co. in Lehi, Utah.
+            </description><Point><coordinates>-111.85077,40.39162</coordinates></Point></Placemark><Placemark><name>Iron County record.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058259#title"&gt;Iron County record.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by W.C. Higgins in Cedar City, Utah.
+            </description><Point><coordinates>-113.06189,37.67748</coordinates></Point></Placemark><Placemark><name>The climax.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069161#title"&gt;The climax.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Climax Print. Co. in Richmond, Madison County, Ky..
+            </description><Point><coordinates>-84.29465,37.74786</coordinates></Point></Placemark><Placemark><name>The republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093448#title"&gt;The republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.R. Cayton in Seattle, Wash..
+            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The Morning Tulsa daily world.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85042345#title"&gt;The Morning Tulsa daily world.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by World Pub. Co. in Tulsa, Okla..
+            </description><Point><coordinates>-95.99278,36.15398</coordinates></Point></Placemark><Placemark><name>Hawaii holomua = Progress.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016410#title"&gt;Hawaii holomua = Progress.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Holomua Pub. Co. in Honolulu.
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Wichita daily eagle.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045789#title"&gt;Wichita daily eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by M.M. Murdock &amp; R.P. Murdcock in Wichita, Kan..
+            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The Tulsa star.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86064118#title"&gt;The Tulsa star.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Tulsa Star Print. and Pub. Co. in Tulsa, Okla..
+            </description><Point><coordinates>-95.99278,36.15398</coordinates></Point></Placemark><Placemark><name>Arizona weekly journal-miner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032938#title"&gt;Arizona weekly journal-miner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Arizona Pub. Co. in Prescott, Ariz..
+            </description><Point><coordinates>-112.4685,34.54002</coordinates></Point></Placemark><Placemark><name>The Weekly Arizona miner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014897#title"&gt;The Weekly Arizona miner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by C.W. Beach in Prescott, Ariz.
+            </description><Point><coordinates>-112.4685,34.54002</coordinates></Point></Placemark><Placemark><name>The Paducah sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052116#title"&gt;The Paducah sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Sun Pub. Co. in Paducah, Ky..
+            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The morning sun.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047371#title"&gt;The morning sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Sun Co. in Tallahassee, Fla..
-            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>The Inter-mountain farmer.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010218501#title"&gt;The Inter-mountain farmer.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Tribune Pub. Co. in Salt Lake City, Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Daily evening bulletin.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87060189#title"&gt;Daily evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Rosser &amp; McCarthy in Maysville [Ky.].
-            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The daily democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn97070124#title"&gt;The daily democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Herndon Bros. in Anadarko, Okla..
-            </description><Point><coordinates>-98.24366,35.07256</coordinates></Point></Placemark><Placemark><name>The Logan Republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058246#title"&gt;The Logan Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by N.R. Moore in Logan, Utah.
-            </description><Point><coordinates>-111.83439,41.73549</coordinates></Point></Placemark><Placemark><name>The Flagstaff sun-democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050554#title"&gt;The Flagstaff sun-democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jones and Jackson in Flagstaff, Ariz..
-            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>The Paducah daily sun.</name><description>
+            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>Carlsbad current.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn93061429#title"&gt;Carlsbad current.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Wm. H. Mullane in Carlsbad, N.M..
+            </description><Point><coordinates>-104.22884,32.42067</coordinates></Point></Placemark><Placemark><name>Semi-weekly news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064481#title"&gt;Semi-weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jno. Dickinson in Shreveport [La.].
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Evening bulletin.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016413#title"&gt;Evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by s.n.] in Honolulu [Oahu, Hawaii.
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Progress.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064460#title"&gt;The Progress.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Cal D. Hicks &amp; G.G. Williams in Shreveport, La..
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Arizona miner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016242#title"&gt;Arizona miner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by T.A. Hand in Fort Whipple, Ariz..
+            </description><Point><coordinates>-112.4685,34.54002</coordinates></Point></Placemark><Placemark><name>The Independent.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84020096#title"&gt;The Independent.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Independent Association in Honolulu, H.I..
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The co-operative news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085771#title"&gt;The co-operative news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Pugent Press in Everett, Wash..
+            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>Daily globe.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83025287#title"&gt;Daily globe.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.P. Hall in St. Paul, Minn..
+            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>Imperial press.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn98061398#title"&gt;Imperial press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Henry C. Reed in Imperial, Cal..
+            </description><Point><coordinates>-115.56944,32.84755</coordinates></Point></Placemark><Placemark><name>The De Soto County news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95026908#title"&gt;The De Soto County news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by De Soto Pub. Co. in Arcadia, Fla..
+            </description><Point><coordinates>-81.85842,27.21588</coordinates></Point></Placemark><Placemark><name>Hawaii holomua.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047059#title"&gt;Hawaii holomua.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Hui Hoolaha Nupepa Hawaii Holomua in Honolulu.
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The record.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87060049#title"&gt;The record.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Record Press in Greenville, Ky..
+            </description><Point><coordinates>-87.17889,37.20115</coordinates></Point></Placemark><Placemark><name>Salt Lake evening Democrat.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058117#title"&gt;Salt Lake evening Democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Salt Lake Democrat Co. in Salt Lake City, Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The Honolulu republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047165#title"&gt;The Honolulu republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by R. Grieve Pub. Co. in Honolulu, T.H..
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The evening bulletin.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87060190#title"&gt;The evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Rosser &amp; McCarthy in Maysville, Ky..
+            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Paducah daily sun.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052118#title"&gt;The Paducah daily sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by [s.n.] in Paducah, Ky..
-            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>Western appeal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016811#title"&gt;Western appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Parker, Burgett &amp; Hardy in Saint Paul, Minn..
-            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>Ranche and range.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2007252185#title"&gt;Ranche and range.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by [s.n. in North Yakima, Wash..
-            </description><Point><coordinates>-117.42605,47.65878</coordinates></Point></Placemark><Placemark><name>Ranche and range.</name><description>
+            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The central record.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069201#title"&gt;The central record.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Cartwright &amp; Landrum in Lancaster, Ky..
+            </description><Point><coordinates>-84.578,37.61952</coordinates></Point></Placemark><Placemark><name>The daily herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047239#title"&gt;The daily herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [D. Logan] in Honolulu, Hawaiian Islands.
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Burlington free press.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84023127#title"&gt;Burlington free press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by L. Foote in Burlington, Vt..
+            </description><Point><coordinates>-73.21207,44.47588</coordinates></Point></Placemark><Placemark><name>Shreveport semi-weekly news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064479#title"&gt;Shreveport semi-weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jno. Dickinson in Shreveport [La.].
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Arizona weekly citizen.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82015133#title"&gt;Arizona weekly citizen.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Citizen Print. &amp; Pub. Co. in Tucson, Ariz.
+            </description><Point><coordinates>-110.92648,32.22174</coordinates></Point></Placemark><Placemark><name>The Daily Republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093449#title"&gt;The Daily Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.R. Cayton in Seattle, Wash..
+            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The daily dispatch.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024738#title"&gt;The daily dispatch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.A. Cowardin in Richmond, [Va.].
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Woman's enterprise.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89059303#title"&gt;Woman's enterprise.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Mattie B. McGrath in Baton Rouge, La..
+            </description><Point><coordinates>-91.15455,30.45075</coordinates></Point></Placemark><Placemark><name>Semi-weekly Bourbon news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069872#title"&gt;Semi-weekly Bourbon news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Bruce Champ in Paris, Ky..
+            </description><Point><coordinates>-84.25299,38.2098</coordinates></Point></Placemark><Placemark><name>Daily Honolulu press.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047264#title"&gt;Daily Honolulu press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n.] in Honolulu, Hawaiian Islands.
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Sunday chat.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052182#title"&gt;The Sunday chat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Sun Pub. Co. in Paducah, Ky..
+            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The Intermountain Catholic.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn93062856#title"&gt;The Intermountain Catholic.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Intermountain Catholic Pub. Co. in Salt Lake City [Utah] ;.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The Gainesville star.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047242#title"&gt;The Gainesville star.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by D.E. Godwin in Gainesville, Fla..
+            </description><Point><coordinates>-82.32483,29.65163</coordinates></Point></Placemark><Placemark><name>The Hartford republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069313#title"&gt;The Hartford republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Barnett &amp; Milligan in Hartford, Ky..
+            </description><Point><coordinates>-86.90916,37.45116</coordinates></Point></Placemark><Placemark><name>Richmond planet.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84025841#title"&gt;Richmond planet.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Planet Pub. Co. in Richmond, Va..
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Austin's Hawaiian weekly.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047152#title"&gt;Austin's Hawaiian weekly.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by F. Austin] in Honolulu [Hawaii.
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Weekly Arizonian.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014067#title"&gt;The Weekly Arizonian.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by W. Wrightson in Tubac, Ariz..
+            </description><Point><coordinates>-110.92648,32.22174</coordinates></Point></Placemark><Placemark><name>The Washington socialist.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085769#title"&gt;The Washington socialist.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Washington Socialist Pub. Co. in Everett, Wash..
+            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>The courier.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99066033#title"&gt;The courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Courier Pub. Co. in Lincoln, Neb..
+            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>The Roanoke daily times.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95079481#title"&gt;The Roanoke daily times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Roanoke Pub. Co. in Roanoke, Va..
+            </description><Point><coordinates>-79.94143,37.27097</coordinates></Point></Placemark><Placemark><name>Tombstone daily prospector.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060902#title"&gt;Tombstone daily prospector.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Nash &amp; Tilden in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Louisiana capitolian.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064592#title"&gt;Louisiana capitolian.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by W.A. LeSueur in Baton Rouge, La..
+            </description><Point><coordinates>-91.15455,30.45075</coordinates></Point></Placemark><Placemark><name>The Democrat.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016408#title"&gt;The Democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.A. Juen in Honolulu, T.H..
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Cayton's monthly.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093354#title"&gt;Cayton's monthly.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.R. Cayton in Seattle, Wash..
+            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The Honolulu times.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047211#title"&gt;The Honolulu times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by A.M. Prescott] in Honolulu [Hawaii.
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The mountain signal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069560#title"&gt;The mountain signal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jas. Maret in Mount Vernon, Ky..
+            </description><Point><coordinates>-84.34049,37.35286</coordinates></Point></Placemark><Placemark><name>Virginian-pilot.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071779#title"&gt;Virginian-pilot.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Virginian and Pilot Pub. Co. in Norfolk, Va..
+            </description><Point><coordinates>-76.28522,36.84681</coordinates></Point></Placemark><Placemark><name>The Eddy current.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn93061674#title"&gt;The Eddy current.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Wm. H. Mullane in Eddy [Carlsbad], N.M..
+            </description><Point><coordinates>-104.22884,32.42067</coordinates></Point></Placemark><Placemark><name>The Daily Tombstone.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94052361#title"&gt;The Daily Tombstone.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by James J. Nash in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The Daily state journal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024670#title"&gt;The Daily state journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Whittlesey &amp; Gillis in Alexandria, Va..
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Saturday press.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014681#title"&gt;Saturday press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Published for the Saturday Press by R. Grieve in Honolulu, H.I..
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Shreveport news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016485#title"&gt;Shreveport news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jno. Dickinson in Shreveport [La.].
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The Florida agriculturist.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96027724#title"&gt;The Florida agriculturist.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Kilkoff &amp; Dean in DeLand, Fla..
+            </description><Point><coordinates>-81.65565,30.33218</coordinates></Point></Placemark><Placemark><name>The weekly Arizona miner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014899#title"&gt;The weekly Arizona miner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.H. Marion, B.H. Weaver in Prescott, Ariz..
+            </description><Point><coordinates>-112.4685,34.54002</coordinates></Point></Placemark><Placemark><name>The Richmond climax.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069162#title"&gt;The Richmond climax.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Climax Print. Co. in Richmond, Ky..
+            </description><Point><coordinates>-84.29465,37.74786</coordinates></Point></Placemark><Placemark><name>The progress.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016853#title"&gt;The progress.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Gus H. Beaulieu in White Earth, Minn..
+            </description><Point><coordinates>-95.84338,47.09663</coordinates></Point></Placemark><Placemark><name>Daily public ledger.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069117#title"&gt;Daily public ledger.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by The Public Ledger Co. in Maysville, Ky..
+            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>Wichita eagle.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032490#title"&gt;Wichita eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by M.M. Murdock &amp; R.D. Murdock in Wichita, Kan..
+            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>Shreveport weekly news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064482#title"&gt;Shreveport weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jno. Dickinson in Shreveport, La..
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Lancaster daily intelligencer.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83032300#title"&gt;Lancaster daily intelligencer.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Cooper, Sanderson &amp; Co. in Lancaster, Pa..
+            </description><Point><coordinates>-76.30551,40.03788</coordinates></Point></Placemark><Placemark><name>The Big blue union.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84027640#title"&gt;The Big blue union.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by G.D. Swearingen in Marysville, Kan..
+            </description><Point><coordinates>-96.64724,39.84111</coordinates></Point></Placemark><Placemark><name>Cochise review.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050513#title"&gt;Cochise review.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by The Bisbee News Co. in Bisbee, Ariz..
+            </description><Point><coordinates>-109.92841,31.44815</coordinates></Point></Placemark><Placemark><name>The weekly republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn89077832#title"&gt;The weekly republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Republican Pub. Co. in Phoenix, [Ariz.].
+            </description><Point><coordinates>-112.07404,33.44838</coordinates></Point></Placemark><Placemark><name>The Breckenridge news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069309#title"&gt;The Breckenridge news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by John D. Babbage in Cloverport, Ky..
+            </description><Point><coordinates>-86.63276,37.83339</coordinates></Point></Placemark><Placemark><name>The Breckenridge news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069309#title"&gt;The Breckenridge news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by John D. Babbage in Cloverport, Ky..
+            </description><Point><coordinates>-86.46053,37.78006</coordinates></Point></Placemark><Placemark><name>The Seattle star.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093407#title"&gt;The Seattle star.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by E.H. Wells &amp; Co. in Seattle, Wash..
+            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The citizen.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052076#title"&gt;The citizen.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by T.G. Pasco in Berea, Ky..
+            </description><Point><coordinates>-84.29632,37.56869</coordinates></Point></Placemark><Placemark><name>The daily eagle.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045705#title"&gt;The daily eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by M.M. Murdock &amp; R.P. Murdock in Wichita, Kan..
+            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The Shreveport weekly news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064477#title"&gt;The Shreveport weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jno. Dickinson in Shreveport, La..
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>The daily herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86089174#title"&gt;The daily herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jesse O. Wheeler in Brownsville, Tex..
+            </description><Point><coordinates>-97.49748,25.90175</coordinates></Point></Placemark><Placemark><name>The sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047216#title"&gt;The sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Sun Co. in Jacksonville, Fla..
+            </description><Point><coordinates>-81.65565,30.33218</coordinates></Point></Placemark><Placemark><name>The sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047216#title"&gt;The sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Sun Co. in Jacksonville, Fla..
+            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>The Northwest worker.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085770#title"&gt;The Northwest worker.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Press Committee of the Socialist Party in Everett, Wash..
+            </description><Point><coordinates>-122.20208,47.97898</coordinates></Point></Placemark><Placemark><name>The Jewish South.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94051168#title"&gt;The Jewish South.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Herbert T. Ezekiel in Richmond, Va..
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Mountain advocate.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87060032#title"&gt;Mountain advocate.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by D. Will Clark in Barbourville, Ky..
+            </description><Point><coordinates>-83.88881,36.86648</coordinates></Point></Placemark><Placemark><name>The Paducah evening sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052114#title"&gt;The Paducah evening sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Sun Pub. Co. in Paducah, Ky..
+            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>Capital city courier.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010270510#title"&gt;Capital city courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Wessel &amp; Dobbins in Lincoln, Neb..
+            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>The Weekly orb.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050504#title"&gt;The Weekly orb.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by A.W. Howe in Bisbee, Cochise County, Ariz. Territory.
+            </description><Point><coordinates>-109.92841,31.44815</coordinates></Point></Placemark><Placemark><name>The Lehi sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058091#title"&gt;The Lehi sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by A.F. &amp; E.R. Gaisford in Lehi, Utah.
+            </description><Point><coordinates>-111.85077,40.39162</coordinates></Point></Placemark><Placemark><name>The Labor herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96096625#title"&gt;The Labor herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by W.H. Mullen, et. al. in Richmond, Va..
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Salt Lake tribune.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045396#title"&gt;The Salt Lake tribune.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Tribune Pub. Co. in Salt Lake City, Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Saturday morning courier.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010270512#title"&gt;Saturday morning courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Courier Pub. Co. in Lincoln, Neb..
+            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>Ranche and range.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2007252185#title"&gt;Ranche and range.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by [s.n. in North Yakima, Wash..
             </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>Ranche and range.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2007252185#title"&gt;Ranche and range.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by [s.n. in North Yakima, Wash..
-            </description><Point><coordinates>-120.5059,46.60207</coordinates></Point></Placemark><Placemark><name>The Richmond climax.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069162#title"&gt;The Richmond climax.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Climax Print. Co. in Richmond, Ky..
-            </description><Point><coordinates>-84.29465,37.74786</coordinates></Point></Placemark><Placemark><name>The Roanoke times.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071868#title"&gt;The Roanoke times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Roanoke Times Pub. Co. in Roanoke, Va..
-            </description><Point><coordinates>-79.94143,37.27097</coordinates></Point></Placemark><Placemark><name>The courier.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99066033#title"&gt;The courier.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Courier Pub. Co. in Lincoln, Neb..
-            </description><Point><coordinates>-96.6864,40.83278</coordinates></Point></Placemark><Placemark><name>Shreveport news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016485#title"&gt;Shreveport news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jno. Dickinson in Shreveport [La.].
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Shreveport semi-weekly news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016484#title"&gt;Shreveport semi-weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Jno. Dickinson in Shreveport, La..
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Shreveport weekly news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064480#title"&gt;Shreveport weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by John Dickinson in Shreveport, La..
-            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Fort Worth gazette.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071158#title"&gt;Fort Worth gazette.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Democrat Pub. Co. in Fort Worth, Tex..
-            </description><Point><coordinates>-97.32085,32.72541</coordinates></Point></Placemark><Placemark><name>Daily press.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045830#title"&gt;Daily press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Daily Press Co. in Newport News, Va..
-            </description><Point><coordinates>-76.428,36.97876</coordinates></Point></Placemark><Placemark><name>Kansas City daily journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86063624#title"&gt;Kansas City daily journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Journal Co. in Kansas City, Mo..
-            </description><Point><coordinates>-94.57857,39.09973</coordinates></Point></Placemark><Placemark><name>The champion.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047227#title"&gt;The champion.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by T. E. &amp; Royal B. Child in Arcadia, Fla..
-            </description><Point><coordinates>-81.85842,27.21588</coordinates></Point></Placemark><Placemark><name>Anadarko daily democrat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn97070125#title"&gt;Anadarko daily democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by A.S. Roberts in Anadarko, Okla..
-            </description><Point><coordinates>-98.24366,35.07256</coordinates></Point></Placemark><Placemark><name>The Globe-republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84029853#title"&gt;The Globe-republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Globe-Republican Pub. Co. in Dodge City, Kan..
-            </description><Point><coordinates>-100.01708,37.7528</coordinates></Point></Placemark><Placemark><name>Capital journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063954#title"&gt;Capital journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Capital Journal Pub. Co. in Salem, Or..
-            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The Sunday chat.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052182#title"&gt;The Sunday chat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Sun Pub. Co. in Paducah, Ky..
-            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The Gainesville star.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047242#title"&gt;The Gainesville star.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by D.E. Godwin in Gainesville, Fla..
-            </description><Point><coordinates>-82.32483,29.65163</coordinates></Point></Placemark><Placemark><name>The sun.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047216#title"&gt;The sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Sun Co. in Jacksonville, Fla..
-            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>The times dispatch.</name><description>
+            </description><Point><coordinates>-120.5059,46.60207</coordinates></Point></Placemark><Placemark><name>Bisbee daily review.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024827#title"&gt;Bisbee daily review.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by W.B. Kelly in Bisbee, Ariz..
+            </description><Point><coordinates>-109.92841,31.44815</coordinates></Point></Placemark><Placemark><name>The Independent.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85047097#title"&gt;The Independent.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n.] in Honolulu, H.I..
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Hawaiian gazette.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83025121#title"&gt;The Hawaiian gazette.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Published ... by J.H. Black at the Govt. Print. Off. in Honolulu [Oahu, Hawaii].
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The Logan Republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058246#title"&gt;The Logan Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by N.R. Moore in Logan, Utah.
+            </description><Point><coordinates>-111.83439,41.73549</coordinates></Point></Placemark><Placemark><name>The times dispatch.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85038615#title"&gt;The times dispatch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Times-Dispatch Co. in Richmond, Va..
-            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Daily astorian.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96061149#title"&gt;The Daily astorian.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by D.C. Ireland in Astoria, Or..
-            </description><Point><coordinates>-123.83125,46.18788</coordinates></Point></Placemark><Placemark><name>The Arizona kicker.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060900#title"&gt;The Arizona kicker.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by S.C. Bagg in Tombstone, Ariz..
-            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The Independent.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84020096#title"&gt;The Independent.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Independent Association in Honolulu, H.I..
-            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>Abilene weekly reflector.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84029386#title"&gt;Abilene weekly reflector.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Reflector Pub. in Abilene, Kan..
-            </description><Point><coordinates>-97.21391,38.91722</coordinates></Point></Placemark><Placemark><name>The morning call.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94052989#title"&gt;The morning call.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by San Francisco Call Co. in San Francisco [Calif.].
-            </description><Point><coordinates>-122.41942,37.77493</coordinates></Point></Placemark><Placemark><name>The Waco evening news.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86088201#title"&gt;The Waco evening news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Hill &amp; Ivy in Waco, Tex..
-            </description><Point><coordinates>-97.14667,31.54933</coordinates></Point></Placemark><Placemark><name>Daily capital journal.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063955#title"&gt;Daily capital journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by Hofer Bros. in Salem, Or..
-            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>The republican.</name><description>
-            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093448#title"&gt;The republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-            published by H.R. Cayton in Seattle, Wash..
-            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The Mountaineer.</name><description>
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Flagstaff sun-democrat.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050554#title"&gt;The Flagstaff sun-democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jones and Jackson in Flagstaff, Ariz..
+            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>Daily Tombstone epitaph.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96060682#title"&gt;Daily Tombstone epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Record Epitaph Pub. Co. in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The Daily bulletin.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016412#title"&gt;The Daily bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.W. Robertson in Honolulu [Hawaii].
+            </description><Point><coordinates>-157.85833,21.30694</coordinates></Point></Placemark><Placemark><name>The champion.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047227#title"&gt;The champion.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by T. E. &amp; Royal B. Child in Arcadia, Fla..
+            </description><Point><coordinates>-81.85842,27.21588</coordinates></Point></Placemark><Placemark><name>The champion.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047227#title"&gt;The champion.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by T. E. &amp; Royal B. Child in Arcadia, Fla..
+            </description><Point><coordinates>-81.82397,27.63837</coordinates></Point></Placemark><Placemark><name>The Tombstone.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96060683#title"&gt;The Tombstone.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by James J. Nash in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Weekly Arizona journal-miner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032920#title"&gt;Weekly Arizona journal-miner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Journal-Miner Co. in Prescott, Ariz..
+            </description><Point><coordinates>-112.4685,34.54002</coordinates></Point></Placemark><Placemark><name>Tombstone daily epitaph.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96060681#title"&gt;Tombstone daily epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.O. Dunbar in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The ranch.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn98047754#title"&gt;The ranch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n. in Seattle, Wash..
+            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>Breathitt County news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069667#title"&gt;Breathitt County news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J. Wise Hagins in Jackson, Ky..
+            </description><Point><coordinates>-83.38351,37.55315</coordinates></Point></Placemark><Placemark><name>The Coconino sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016245#title"&gt;The Coconino sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by C.M. Funston in Flagstaff, Ariz..
+            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>St. Paul daily globe.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn90059522#title"&gt;St. Paul daily globe.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by St. Paul Globe Print. Co. in Saint Paul, Minn..
+            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>The Mountaineer.</name><description>
             &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83021447#title"&gt;The Mountaineer.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
             published by Blair, Ferguson &amp; Stout] in Great Salt Lake City [Utah.
-            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark></Document></kml>
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Omaha daily bee.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99021999#title"&gt;Omaha daily bee.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Edward Rosewater in Omaha [Neb.].
+            </description><Point><coordinates>-95.93779,41.25861</coordinates></Point></Placemark><Placemark><name>The Imperial press.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn92070143#title"&gt;The Imperial press.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Edgar F. Howe in Imperial, Cal..
+            </description><Point><coordinates>-115.56944,32.84755</coordinates></Point></Placemark><Placemark><name>The times.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85034438#title"&gt;The times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Times Co. in Richmond, Va..
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>Daily evening bulletin.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87060189#title"&gt;Daily evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Rosser &amp; McCarthy in Maysville [Ky.].
+            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Tombstone epitaph.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016455#title"&gt;The Tombstone epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Clum, Sorin &amp; Co. in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Evening bulletin.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069125#title"&gt;Evening bulletin.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Rosser &amp; McCarthy in Maysville [Ky.].
+            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Tombstone epitaph.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84021939#title"&gt;The Tombstone epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Clum, Sorin &amp; Co. in Tombstone, Pima County, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>Brenham weekly banner.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86089443#title"&gt;Brenham weekly banner.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Rankin &amp; McCrimmon in Brenham, Tex..
+            </description><Point><coordinates>-96.39774,30.16688</coordinates></Point></Placemark><Placemark><name>The Coconino sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87062055#title"&gt;The Coconino sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by C.M. Funston in Flagstaff, Ariz..
+            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>The Arizona champion.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016246#title"&gt;The Arizona champion.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by A.E. Fay in Peach Springs, Mohave County, A.T. [Ariz.].
+            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>The Arizona champion.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82016246#title"&gt;The Arizona champion.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by A.E. Fay in Peach Springs, Mohave County, A.T. [Ariz.].
+            </description><Point><coordinates>-113.42549,35.52916</coordinates></Point></Placemark><Placemark><name>Shreveport weekly news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88064480#title"&gt;Shreveport weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by John Dickinson in Shreveport, La..
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Corpus Christi caller and daily herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86088527#title"&gt;Corpus Christi caller and daily herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by The Caller Pub. Co. in Corpus Christi, Tex..
+            </description><Point><coordinates>-97.39638,27.80058</coordinates></Point></Placemark><Placemark><name>Arizona citizen.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014896#title"&gt;Arizona citizen.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J. Wasson in Tucson, Pima County, A.T. [i.e. Ariz.].
+            </description><Point><coordinates>-110.92648,32.22174</coordinates></Point></Placemark><Placemark><name>Arizona citizen.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014896#title"&gt;Arizona citizen.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J. Wasson in Tucson, Pima County, A.T. [i.e. Ariz.].
+            </description><Point><coordinates>-111.38734,33.03145</coordinates></Point></Placemark><Placemark><name>The university news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn96027438#title"&gt;The university news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n.] in Gainesville, Fla..
+            </description><Point><coordinates>-82.32483,29.65163</coordinates></Point></Placemark><Placemark><name>The Big Stone Gap post.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88061179#title"&gt;The Big Stone Gap post.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by C.M. Harris in Big Stone Gap, Wise County, Va..
+            </description><Point><coordinates>-82.78711,36.88204</coordinates></Point></Placemark><Placemark><name>Richmond dispatch.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85038614#title"&gt;Richmond dispatch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Dispatch Co. in Richmond, Va..
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Bourbon news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069873#title"&gt;The Bourbon news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Champ &amp; Miller in Paris, Ky..
+            </description><Point><coordinates>-84.25299,38.2098</coordinates></Point></Placemark><Placemark><name>Daily capital journal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn99063955#title"&gt;Daily capital journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Hofer Bros. in Salem, Or..
+            </description><Point><coordinates>-123.0351,44.9429</coordinates></Point></Placemark><Placemark><name>Shreveport semi-weekly news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016484#title"&gt;Shreveport semi-weekly news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Jno. Dickinson in Shreveport, La..
+            </description><Point><coordinates>-93.75018,32.52515</coordinates></Point></Placemark><Placemark><name>Memphis daily appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045160#title"&gt;Memphis daily appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.T. Seawell &amp; W.N. Stanton in Memphis, Tenn..
+            </description><Point><coordinates>-84.38798,33.749</coordinates></Point></Placemark><Placemark><name>Memphis daily appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045160#title"&gt;Memphis daily appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.T. Seawell &amp; W.N. Stanton in Memphis, Tenn..
+            </description><Point><coordinates>-87.0211,32.40736</coordinates></Point></Placemark><Placemark><name>Memphis daily appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045160#title"&gt;Memphis daily appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.T. Seawell &amp; W.N. Stanton in Memphis, Tenn..
+            </description><Point><coordinates>-90.18481,32.29876</coordinates></Point></Placemark><Placemark><name>Memphis daily appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045160#title"&gt;Memphis daily appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.T. Seawell &amp; W.N. Stanton in Memphis, Tenn..
+            </description><Point><coordinates>-90.87788,32.35265</coordinates></Point></Placemark><Placemark><name>Memphis daily appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045160#title"&gt;Memphis daily appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.T. Seawell &amp; W.N. Stanton in Memphis, Tenn..
+            </description><Point><coordinates>-83.6324,32.84069</coordinates></Point></Placemark><Placemark><name>Memphis daily appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045160#title"&gt;Memphis daily appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.T. Seawell &amp; W.N. Stanton in Memphis, Tenn..
+            </description><Point><coordinates>-90.04898,35.14953</coordinates></Point></Placemark><Placemark><name>Memphis daily appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045160#title"&gt;Memphis daily appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by S.T. Seawell &amp; W.N. Stanton in Memphis, Tenn..
+            </description><Point><coordinates>-86.29997,32.36681</coordinates></Point></Placemark><Placemark><name>The Skylight kicker.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn94050555#title"&gt;The Skylight kicker.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by R.H &amp; J.E. Jones in Flagstaff, Ariz..
+            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>Daily Arizona silver belt.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87082863#title"&gt;Daily Arizona silver belt.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.H. Hamill in Globe, Gila County, Ariz..
+            </description><Point><coordinates>-110.86872,33.39922</coordinates></Point></Placemark><Placemark><name>Daily Arizona silver belt.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87082863#title"&gt;Daily Arizona silver belt.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.H. Hamill in Globe, Gila County, Ariz..
+            </description><Point><coordinates>-110.8719482421875,33.39611053466797</coordinates></Point></Placemark><Placemark><name>Daily Arizona silver belt.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87082863#title"&gt;Daily Arizona silver belt.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by J.H. Hamill in Globe, Gila County, Ariz..
+            </description><Point><coordinates>-110.7865,33.39422</coordinates></Point></Placemark><Placemark><name>Amador ledger.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn93052980#title"&gt;Amador ledger.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by R. Webb &amp; F.S. Briggs in Jackson, Amador County, Calif..
+            </description><Point><coordinates>-120.7741,38.3488</coordinates></Point></Placemark><Placemark><name>The Yakima herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88085523#title"&gt;The Yakima herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Reed &amp; Coe in North Yakima, W.T. [Wash.].
+            </description><Point><coordinates>-120.5059,46.60207</coordinates></Point></Placemark><Placemark><name>Cayton's weekly.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87093353#title"&gt;Cayton's weekly.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by H.R. Cayton in Seattle, Wash..
+            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark><Placemark><name>The ranch.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2007252175#title"&gt;The ranch.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n. in North Yakima, Wash..
+            </description><Point><coordinates>-120.5059,46.60207</coordinates></Point></Placemark><Placemark><name>The Corpus Christi caller.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071134#title"&gt;The Corpus Christi caller.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Caller Pub. Co. in Corpus Christi, Tex..
+            </description><Point><coordinates>-97.39638,27.80058</coordinates></Point></Placemark><Placemark><name>The Wichita daily eagle.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn82014635#title"&gt;The Wichita daily eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by M.M. Murdock &amp; R.P. Murdock in Wichita, Kan..
+            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The Norfolk post.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85038624#title"&gt;The Norfolk post.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [s.n.] in Norfolk, Va..
+            </description><Point><coordinates>-76.28522,36.84681</coordinates></Point></Placemark><Placemark><name>The Salt Lake herald.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058130#title"&gt;The Salt Lake herald.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by W.C. Dunbar &amp; E.L. Sloan] in Salt Lake City [Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016810#title"&gt;The appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Northwestern Pub. Co. in Saint Paul, Minn. ;.
+            </description><Point><coordinates>-93.26384,44.97997</coordinates></Point></Placemark><Placemark><name>The appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016810#title"&gt;The appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Northwestern Pub. Co. in Saint Paul, Minn. ;.
+            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>Daily gazette and comet.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88083120#title"&gt;Daily gazette and comet.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Geo. A. Pike &amp; W.H. Crenshaw in Baton Rouge, La..
+            </description><Point><coordinates>-91.15455,30.45075</coordinates></Point></Placemark><Placemark><name>Western appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016811#title"&gt;Western appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Parker, Burgett &amp; Hardy in Saint Paul, Minn..
+            </description><Point><coordinates>-93.26384,44.97997</coordinates></Point></Placemark><Placemark><name>Western appeal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83016811#title"&gt;Western appeal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Parker, Burgett &amp; Hardy in Saint Paul, Minn..
+            </description><Point><coordinates>-93.09327,44.94441</coordinates></Point></Placemark><Placemark><name>Arizona republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84020558#title"&gt;Arizona republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Republican Pub. Co. in Phoenix, Ariz..
+            </description><Point><coordinates>-112.07404,33.44838</coordinates></Point></Placemark><Placemark><name>Imperial press and farmer.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn92070142#title"&gt;Imperial press and farmer.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Edgar F. Howe in Imperial, San Diego County, Cal..
+            </description><Point><coordinates>-115.56944,32.84755</coordinates></Point></Placemark><Placemark><name>Arizona silver belt.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84021913#title"&gt;Arizona silver belt.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Hackney &amp; Morehead in Globe City, Pinal County, Ariz..
+            </description><Point><coordinates>-110.86872,33.39922</coordinates></Point></Placemark><Placemark><name>Arizona silver belt.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84021913#title"&gt;Arizona silver belt.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Hackney &amp; Morehead in Globe City, Pinal County, Ariz..
+            </description><Point><coordinates>-110.8719482421875,33.39611053466797</coordinates></Point></Placemark><Placemark><name>Arizona silver belt.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84021913#title"&gt;Arizona silver belt.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Hackney &amp; Morehead in Globe City, Pinal County, Ariz..
+            </description><Point><coordinates>-110.7865,33.39422</coordinates></Point></Placemark><Placemark><name>The Charleston daily news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84026994#title"&gt;The Charleston daily news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Cathcart, McMillan &amp; Morton in Charleston, S.C..
+            </description><Point><coordinates>-79.93092,32.77657</coordinates></Point></Placemark><Placemark><name>The Paducah weekly sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052115#title"&gt;The Paducah weekly sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by The Sun Pub. Co. in Paducah, Ky..
+            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The Salt Lake herald-Republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058140#title"&gt;The Salt Lake herald-Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by [Herald-Republican Pub. Co.] in Salt Lake City, Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Paducah sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85052117#title"&gt;Paducah sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Sun Pub. Co. in Paducah, Ky..
+            </description><Point><coordinates>-88.60005,37.08339</coordinates></Point></Placemark><Placemark><name>The Roanoke times.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071868#title"&gt;The Roanoke times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Roanoke Times Pub. Co. in Roanoke, Va..
+            </description><Point><coordinates>-79.94143,37.27097</coordinates></Point></Placemark><Placemark><name>The Inter-mountain farmer.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/2010218501#title"&gt;The Inter-mountain farmer.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Tribune Pub. Co. in Salt Lake City, Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The public ledger.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85038022#title"&gt;The public ledger.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by A.F. Curran in Maysville, Ky..
+            </description><Point><coordinates>-83.74436,38.64119</coordinates></Point></Placemark><Placemark><name>The Wichita city eagle.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032573#title"&gt;The Wichita city eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Marshall M. Murdock in Wichita, Kan..
+            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The weekly true Democrat.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95047417#title"&gt;The weekly true Democrat.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by John G. Collins in Tallahassee, Fla..
+            </description><Point><coordinates>-84.28073,30.43826</coordinates></Point></Placemark><Placemark><name>Iron County news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85058258#title"&gt;Iron County news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by R. Maeser in Cedar City, Utah.
+            </description><Point><coordinates>-113.06189,37.67748</coordinates></Point></Placemark><Placemark><name>Panama City pilot.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn88084205#title"&gt;Panama City pilot.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Pilot Pub. Co. in Panama City, Washington County, Fla..
+            </description><Point><coordinates>-85.65983,30.15946</coordinates></Point></Placemark><Placemark><name>Deseret evening news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045555#title"&gt;Deseret evening news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by G.Q. Cannon in Great Salt Lake City [Utah].
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>Tombstone weekly epitaph.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn95060906#title"&gt;Tombstone weekly epitaph.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Epitaph Print. and Pub. Co. in Tombstone, Ariz..
+            </description><Point><coordinates>-110.06758,31.71287</coordinates></Point></Placemark><Placemark><name>The broad ax.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84024055#title"&gt;The broad ax.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Julius F. Taylor in Salt Lake City, Utah.
+            </description><Point><coordinates>-111.89105,40.76078</coordinates></Point></Placemark><Placemark><name>The Minneapolis journal.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn83045366#title"&gt;The Minneapolis journal.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Journal Print. Co. in Minneapolis, Minn..
+            </description><Point><coordinates>-93.26384,44.97997</coordinates></Point></Placemark><Placemark><name>The Bourbon news.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86069871#title"&gt;The Bourbon news.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Champ &amp; Roby in Millersburg, Ky..
+            </description><Point><coordinates>-84.25299,38.2098</coordinates></Point></Placemark><Placemark><name>Wichita eagle.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn85032575#title"&gt;Wichita eagle.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by M.M. Murdock &amp; Bro. in Wichita, Kan..
+            </description><Point><coordinates>-97.33754,37.69224</coordinates></Point></Placemark><Placemark><name>The Coconino weekly sun.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn87062054#title"&gt;The Coconino weekly sun.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by C.M. Funston in Flagstaff, Ariz..
+            </description><Point><coordinates>-111.65127,35.19807</coordinates></Point></Placemark><Placemark><name>The Daily times.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn86071854#title"&gt;The Daily times.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Times Pub. Co. in Richmond, Va..
+            </description><Point><coordinates>-77.46026,37.55376</coordinates></Point></Placemark><Placemark><name>The Seattle Republican.</name><description>
+            &lt;strong&gt;&lt;a href="http://chroniclingamerica.loc.gov/lccn/sn84025811#title"&gt;The Seattle Republican.&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+            published by Republican Pub. Co. in Seattle, Wash..
+            </description><Point><coordinates>-122.33207,47.60621</coordinates></Point></Placemark></Document></kml>
