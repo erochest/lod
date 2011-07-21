@@ -1,0 +1,59 @@
+
+# LoC's Chronicling America / GeoNames RDF Map Mashup
+
+Because I can't think of a title that would be snappy.
+
+## Summary
+
+This is an RDF mashup taking data from http://chroniclingamerica.loc.gov/ and
+http://www.geonames.org/ and generates a KML file for exploring some of the
+newspapers' locations in Google Earth.
+
+This is more or less a one-off project and still pretty rough around the edges.
+
+## Prerequisites
+
+You'll need to have Python installed and [RDFlib](http://www.rdflib.net/):
+
+```bash
+$ easy_install -U "rdflib>=3.0.0"
+```
+
+## To Use
+
+Just run the `newspapers.py` script:
+
+```bash
+$ ./bin/newspapers.py
+```
+
+## What This Does
+
+When you run it, the script pulls data from the [Library of Congress'
+Chronicling America](http://chroniclingamerica.loc.gov/) project. This includes
+links from each newspaper's data to the GeoNames data for that newspaper's
+place. The script pulls the latitude and longitude from GeoNames. It then wraps
+it into a KML file for viewing in Google Earth, Google Maps, or another GIS
+system.
+
+## How It Does It
+
+This script relies completely on Linked Open Data.
+
+ 1. It reads the RDF records from the LoC to get the list of newspapers
+    archived.
+ 2. It reads the RDF record for each newspaper it randomly samples.
+ 3. It queries that to get the links from the Dublin Core coverage field.
+    There should be one pointing to the location's entry on
+    [GeoNames](http://www.geonames.org/) and one point to its entry on
+    [DBpedia](http://dbpedia.org/About) (which doesn't get used here).
+ 4. It merges the data from those into the graph.
+ 5. Next, it queries the coverage and generates a KML file containing the
+    positions of each newspaper and a short description of it.
+
+## The Map
+
+Because it randomly samples the newspapers it processes, each run will be
+different.  You can view [the map from one run
+here](http://maps.google.com/maps?q=https:%2F%2Fgithub.com%2Ferochest%2Floc-chronicling-map%2Fraw%2Fmaster%2Fdata%2Fnewspapers.kml&hl=en&sll=38.063606,-78.505873&sspn=0.011741,0.016093&t=h&z=3).
+
