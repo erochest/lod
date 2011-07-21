@@ -186,8 +186,6 @@ def load_coverage(g, newspapers):
 
 def load_data(filename=OUTPUT):
     """This loads the data and serializes it. """
-    init()
-
     g = get_newspapers()
     sample = create_sample(g)
     load_newspapers(g, sample)
@@ -195,6 +193,8 @@ def load_data(filename=OUTPUT):
 
     print('Serializing to %s.' % (filename,))
     g.serialize(filename, format='n3')
+
+    return g
 
 
 ##########################################################################
@@ -269,17 +269,19 @@ def make_kml(coverage, output=KML_OUTPUT):
     et.write(output, 'UTF-8')
 
 
-def data_to_kml(input=OUTPUT, output=KML_OUTPUT):
+def data_to_kml(g=None, input=OUTPUT, output=KML_OUTPUT):
     """This reads the data from input and writes it to output as KML. """
-    init()
-
-    g = read_data(input)
+    g = (g if g is not None else read_data(input))
     coverage = query_coverage(g)
     make_kml(coverage, output)
 
 
-# main = load_data
-main = data_to_kml
+##
+
+def main():
+    init()
+    g = load_data(filename=OUTPUT)
+    data_to_kml(g=g, output=KML_OUTPUT)
 
 
 if __name__ == '__main__':
