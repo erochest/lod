@@ -9,7 +9,7 @@ from xml.etree import cElementTree as ET
 
 import rdflib
 from rdflib import plugin
-from rdflib import Literal, Namespace, URIRef
+from rdflib import Namespace, URIRef
 from rdflib import Graph
 
 
@@ -193,7 +193,8 @@ def load_data(filename=OUTPUT):
     load_coverage(g, sample)
 
     print('Serializing to %s.' % (filename,))
-    g.serialize(filename, format='n3')
+    with open(filename, 'w') as f:
+        g.serialize(f, format='n3')
 
     return g
 
