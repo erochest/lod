@@ -1,0 +1,104 @@
+introduction
+the vision
+	human-readable web
+	machine-readable web
+break it apart
+	*linked* data
+	*open* data
+	rdf *data*
+starry, starry night
+	: This isn't all or nothing.
+	http://lab.linkeddata.deri.ie/2010/star-scheme-by-example/
+		1.	**open**
+		2.	**structured**
+		3.	**non-proprietary**
+		4.	**HTTP URIs**
+		5.	**link**
+the universe
+	http://richard.cyganiak.de/2007/10/lod/imagemap.html
+rdf
+	first a way of looking at and organizing data
+		xml => hierarchical
+			a tree
+			an org chart
+		rdf => graph
+			what's that?
+				http://www.openarchives.org/ore/1.0/datamodel#InterAggr
+			labelled nodes
+			directed, labelled links
+	everything is expressed in simple statements
+		subject
+		predicate
+		object
+	shared vocabularies
+		foaf
+			http://xmlns.com/foaf/spec/
+		dublin core
+			http://dublincore.org/documents/dces/
+		as much as possible
+	this isn't about formats, necessarily
+		xml is a way of looking at data and also a format
+		xml can be format for rdf (rdf/xml)
+		but there's also
+			n3
+			turtle
+			others
+	kind of technical. what do you need to remember?
+		simple, SVO statements
+		shared vocabularies
+exercise
+	subject
+		http://search.lib.virginia.edu/catalog/u830526
+		http://catalog.performantsoftware.com/search.xml?aut=%2bPickard
+		http://books.google.com/books?id=ZAmmGtQ9xAQC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+	data modelling
+		excel database? represent a complex table in excel?
+		create a new database?
+		define a new xml schema or extend one (e.g., TEI)?
+		it's just asking a few questions
+			what are we describing?
+			what objects?
+			what attributes?
+			what relationships?
+			no hard and fast answers, depends on what you want to do with the data
+	ask them: for this?
+		original work
+			title
+			author
+			date
+			publisher
+			pages
+		secondary work?
+			title
+			author
+			editor/holder
+			date
+			location?
+			veracity?
+	resources
+		http://viaf.org/
+			search: pickard
+				http://viaf.org/viaf/395814/
+				http://viaf.org/viaf/395814/rdf.xml
+			search: hawthorne
+				http://viaf.org/viaf/44435463/
+				http://viaf.org/viaf/44435463/rdf.xml
+				notice
+					owl:sameAs links
+					skos:exactMatch links
+		http://dbpedia.org/
+			http://dbpedia.org/sparql
+		http://socialarchive.iath.virginia.edu/
+		< SPARQL query:
+		< PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+		< PREFIX arch: <http://purl.org/archival/vocab/arch#>
+		< 
+		< SELECT ?s ?p ?o WHERE {
+		<   ?s foaf:name "Hawthorne, Nathaniel, 1804-1864." . 
+		<   ?s ?p ?o .
+		< }
+			notice who hawthorne cooresponded with
+			notice the link to viaf
+diy
+	often the data isn't really open or easily accessible
+	http://wraggelabs.com/
