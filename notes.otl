@@ -1,19 +1,26 @@
 introduction
 the vision
+	http://www.foundation3d.com/gallery/data/506/medium/Terminator_Eyes.jpg
 	human-readable web
 	machine-readable web
 break it apart
+	http://blogs.ecs.soton.ac.uk/webteam/2011/07/17/linked-data-vs-open-data-vs-rdf-data/
+	http://blogs.ecs.soton.ac.uk/webteam/files/2011/07/LOD-Ven1-e1310728709580.jpg
 	*linked* data
+		an approach
 	*open* data
+		a policy
 	rdf *data*
+		a technology, a data structure, a way of modeling knowledge
 starry, starry night
 	: This isn't all or nothing.
 	http://lab.linkeddata.deri.ie/2010/star-scheme-by-example/
-		1.	**open**
-		2.	**structured**
-		3.	**non-proprietary**
-		4.	**HTTP URIs**
-		5.	**link**
+	http://www.universetoday.com/wp-content/uploads/2008/10/m45-580x357.jpg
+		1.	**open** license
+		2.	**structured** format (excel, not image)
+		3.	**non-proprietary** format (csv, not excel)
+		4.	**HTTP URIs** to identify things
+		5.	**link** to other data
 the universe
 	http://richard.cyganiak.de/2007/10/lod/imagemap.html
 rdf
@@ -24,6 +31,7 @@ rdf
 		rdf => graph
 			what's that?
 				http://www.openarchives.org/ore/1.0/datamodel#InterAggr
+				http://www.openarchives.org/ore/1.0/datamodel-images/Proxy.jpg
 			labelled nodes
 			directed, labelled links
 	everything is expressed in simple statements
@@ -49,7 +57,6 @@ rdf
 exercise
 	subject
 		http://search.lib.virginia.edu/catalog/u830526
-		http://catalog.performantsoftware.com/search.xml?aut=%2bPickard
 		http://books.google.com/books?id=ZAmmGtQ9xAQC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 	data modelling
 		excel database? represent a complex table in excel?
@@ -62,6 +69,7 @@ exercise
 			what relationships?
 			no hard and fast answers, depends on what you want to do with the data
 	ask them: for this?
+		NB: draw the graph
 		original work
 			title
 			author
@@ -88,6 +96,7 @@ exercise
 					skos:exactMatch links
 		http://dbpedia.org/
 			http://dbpedia.org/sparql
+			http://dbpedia.org/page/Nathaniel_Hawthorne
 		http://socialarchive.iath.virginia.edu/
 		< SPARQL query:
 		< PREFIX foaf: <http://xmlns.com/foaf/0.1/>
