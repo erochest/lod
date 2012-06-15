@@ -20,6 +20,7 @@ starry, starry night
 		2.	**structured** format (excel, not image)
 		3.	**non-proprietary** format (csv, not excel)
 		4.	**HTTP URIs** to identify things
+			What's a URI?
 		5.	**link** to other data
 the universe
 	http://richard.cyganiak.de/2007/10/lod/imagemap.html
@@ -111,3 +112,5 @@ exercise
 diy
 	often the data isn't really open or easily accessible
 	http://wraggelabs.com/
+notes for next time
+	can we make this focused on working through a separate activity and bring everything up naturally while working through it?
