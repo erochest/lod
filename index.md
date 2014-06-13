@@ -141,6 +141,8 @@ re-publishing their data.
 
 # Resources
 
+## LOD
+
 * http://blog.soton.ac.uk/webteam/2011/07/17/linked-data-vs-open-data-vs-rdf-data/
 * http://5stardata.info/
 * http://lod-cloud.net/
