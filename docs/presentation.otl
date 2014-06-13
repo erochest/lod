@@ -1,0 +1,116 @@
+introduction
+the vision
+	http://www.foundation3d.com/gallery/data/506/medium/Terminator_Eyes.jpg
+	human-readable web
+	machine-readable web
+break it apart
+	http://blogs.ecs.soton.ac.uk/webteam/2011/07/17/linked-data-vs-open-data-vs-rdf-data/
+	http://blogs.ecs.soton.ac.uk/webteam/files/2011/07/LOD-Ven1-e1310728709580.jpg
+	*linked* data
+		an approach
+	*open* data
+		a policy
+	rdf *data*
+		a technology, a data structure, a way of modeling knowledge
+starry, starry night
+	: This isn't all or nothing.
+	http://lab.linkeddata.deri.ie/2010/star-scheme-by-example/
+	http://www.universetoday.com/wp-content/uploads/2008/10/m45-580x357.jpg
+		1.	**open** license
+		2.	**structured** format (excel, not image)
+		3.	**non-proprietary** format (csv, not excel)
+		4.	**HTTP URIs** to identify things
+			What's a URI?
+		5.	**link** to other data
+the universe
+	http://richard.cyganiak.de/2007/10/lod/imagemap.html
+rdf
+	first a way of looking at and organizing data
+		xml => hierarchical
+			a tree
+			an org chart
+		rdf => graph
+			what's that?
+				http://www.openarchives.org/ore/1.0/datamodel#InterAggr
+				http://www.openarchives.org/ore/1.0/datamodel-images/Proxy.jpg
+			labelled nodes
+			directed, labelled links
+	everything is expressed in simple statements
+		subject
+		predicate
+		object
+	shared vocabularies
+		foaf
+			http://xmlns.com/foaf/spec/
+		dublin core
+			http://dublincore.org/documents/dces/
+		as much as possible
+	this isn't about formats, necessarily
+		xml is a way of looking at data and also a format
+		xml can be format for rdf (rdf/xml)
+		but there's also
+			n3
+			turtle
+			others
+	kind of technical. what do you need to remember?
+		simple, SVO statements
+		shared vocabularies
+exercise
+	subject
+		http://search.lib.virginia.edu/catalog/u830526
+		http://books.google.com/books?id=ZAmmGtQ9xAQC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+	data modelling
+		excel database? represent a complex table in excel?
+		create a new database?
+		define a new xml schema or extend one (e.g., TEI)?
+		it's just asking a few questions
+			what are we describing?
+			what objects?
+			what attributes?
+			what relationships?
+			no hard and fast answers, depends on what you want to do with the data
+	ask them: for this?
+		NB: draw the graph
+		original work
+			title
+			author
+			date
+			publisher
+			pages
+		secondary work?
+			title
+			author
+			editor/holder
+			date
+			location?
+			veracity?
+	resources
+		http://viaf.org/
+			search: pickard
+				http://viaf.org/viaf/395814/
+				http://viaf.org/viaf/395814/rdf.xml
+			search: hawthorne
+				http://viaf.org/viaf/44435463/
+				http://viaf.org/viaf/44435463/rdf.xml
+				notice
+					owl:sameAs links
+					skos:exactMatch links
+		http://dbpedia.org/
+			http://dbpedia.org/sparql
+			http://dbpedia.org/page/Nathaniel_Hawthorne
+		http://socialarchive.iath.virginia.edu/
+		< SPARQL query:
+		< PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+		< PREFIX arch: <http://purl.org/archival/vocab/arch#>
+		< 
+		< SELECT ?s ?p ?o WHERE {
+		<   ?s foaf:name "Hawthorne, Nathaniel, 1804-1864." . 
+		<   ?s ?p ?o .
+		< }
+			notice who hawthorne cooresponded with
+			notice the link to viaf
+diy
+	often the data isn't really open or easily accessible
+	http://wraggelabs.com/
+notes for next time
+	can we make this focused on working through a separate activity and bring everything up naturally while working through it?
