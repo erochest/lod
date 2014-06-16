@@ -1,6 +1,10 @@
-% Linked Open Data
-% Eric Rochester
-% 17 June 2014
+---
+title: Linked Open Data
+author:
+- Eric Rochester
+- http://bit.ly/erochest-lod
+date: 17 June 2014
+...
 
 # The Vision
 
@@ -15,19 +19,19 @@
 ## *Linked* Data
 
 <div class="notes">
-An approach
+An approach. Not islands of data, but islands connected by bridges.
 </div>
 
 ## *Open* Data
 
 <div class="notes">
-A policy
+A policy. Make it accessible, allow others to view and interact.
 </div>
 
 ## *Data*
 
 <div class="notes">
-A technology, a data structure, a way of modelling knowledge.
+A technology, a data structure, a way of modelling knowledge. For machines.
 </div>
 
 # Principles
@@ -111,8 +115,8 @@ re-publishing their data.
 
 ## Organizing Data
 
-* XML trees
-* RDF Graphs
+> * XML trees
+> * RDF Graphs
 
 ##
 
