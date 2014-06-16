@@ -8,7 +8,9 @@ date: 17 June 2014
 
 # The Vision
 
-## Human-Readable
+## Now: Human-Readable
+
+## The Web of the Future
 
 ## Machine-Readable
 
@@ -92,19 +94,6 @@ Not all or nothing.
 
 ![](i/m45-580x357.jpg)
 
-# DIY
-
-## Wragge Labs
-
-![http://wraggelabs.com/](i/wragge.png)
-
-<div class="notes">
-Tim Sherratt:
-http://trove.nla.gov.au/ from the National Library of Australia allowed access,
-but had no API or machine-readable data. He fixed that by scraping and
-re-publishing their data.
-</div>
-
 # The Universe
 
 ##
@@ -140,6 +129,23 @@ re-publishing their data.
 
 > * SVO
 > * Shared Vocabularies
+
+# DIY
+
+## DBPedia
+
+![DBPedia.org](i/dbpedia_logo.png)
+
+## Wragge Labs
+
+![wraggelabs.com](i/wragge.png)
+
+<div class="notes">
+Tim Sherratt:
+http://trove.nla.gov.au/ from the National Library of Australia allowed access,
+but had no API or machine-readable data. He fixed that by scraping and
+re-publishing their data.
+</div>
 
 # Exercise
 
