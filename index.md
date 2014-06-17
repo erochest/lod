@@ -244,6 +244,19 @@ re-publishing their data.
 
 # Exercise
 
+<div class="notes">
+
+* identify triples to describe the recipe
+* what's a uri?
+* discuss approaches
+* what does this get us?
+* what activities would this allow the computer to do?
+  - aggregate searches
+  - procurement and stocking
+  - scaling
+
+</div>
+
 # Resources
 
 ## LOD
