@@ -2,7 +2,7 @@
 title: Linked Open Data
 author:
 - Eric Rochester
-- http://bit.ly/erochest-lod
+- www.ericrochester.com/lod
 date: 17 June 2014
 ...
 
