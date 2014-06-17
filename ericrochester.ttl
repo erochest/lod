@@ -1,0 +1,67 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://www.ericrochester.com/ericrochester.rdf#eric> a foaf:Person;
+    foaf:title "Dr";
+    foaf:givenName "Eric";
+    foaf:familyName "Rochester";
+    foaf:name "Eric Rochester";
+    foaf:nick "Eric";
+    foaf:myersBriggs "INTP";
+
+    foaf:mbox <mailto:eric@ericrochester.com>,
+        <mailto:erochest@gmail.com>,
+        <mailto:erochest@virginia.edu>,
+        <mailto:err8n@virginia.edu>;
+    foaf:mbox_sha1sum "22088b910a0f5c79a1954911726e0f759b8fc0d7",
+        "30626eb9784d4b090a9557329643ec162dbcb7ad",
+        "84574b93e1e57a098d630dfdf8aa2fd3ca4fb4f4",
+        "d7c5d16d2522d77bdb3e31b8d0bf29277fb2cefe";
+
+    foaf:openid <http://www.ericrochester.com/>;
+    foaf:account [
+        a foaf:OnlineAccount;
+        foaf:accountServiceHomepage <http://www.twitter.com/>;
+        foaf:accountName "erochest"
+    ];
+    foaf:account [
+        a foaf:OnlineAccount;
+        foaf:accountServiceHomepage <http://www.facebook.com/>;
+        foaf:accountName "erochest"
+    ];
+    foaf:account [
+        a foaf:OnlineAccount;
+        foaf:accountServiceHomepage <http://www.linkedin.com/>;
+        foaf:accountName "erochester"
+    ];
+    foaf:account [
+        a foaf:OnlineAccount;
+        foaf:accountServiceHomepage <http://www.skype.com/>;
+        foaf:accountName "erochester"
+    ];
+    foaf:account [
+        a foaf:OnlineAccount;
+        foaf:accountServiceHomepage <https://www.github.com/>;
+        foaf:accountName "erochest"
+    ];
+    foaf:account [
+        a foaf:OnlineAccount;
+        foaf:accountServiceHomepage <https://www.bitbucket.com/>;
+        foaf:accountName "erochest"
+    ];
+    foaf:account [
+        a foaf:OnlineAccount;
+        foaf:accountServiceHomepage <http://profiles.google.com/>;
+        foaf:accountName "erochest"
+    ];
+
+    foaf:img <http://www.gravatar.com/avatar/0e72db523b0c799c871b7755eda209f5.png>;
+    foaf:homepage <http://www.ericrochester.com/>;
+    foaf:weblog <http://www.ericrochester.com/blog/>;
+
+    foaf:schoolHomepage <http://www.southern.edu/>,
+        <http://www.uga.edu/>;
+
+    foaf:workplaceHomepage <http://www.scholarslab.org/>;
+    foaf:workInfoHomepage <http://www2.lib.virginia.edu/scholarslab/about/people.html?name=eric#people-detail> .
+

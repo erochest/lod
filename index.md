@@ -6,7 +6,29 @@ author:
 date: 17 June 2014
 ...
 
+## Road Map
+
+* The Vision
+* How Computers See the Web
+* The Semantic Web
+* Break It Down
+* Principles
+* Starry, Starry Night
+* The Universe
+* Resource Description Framework (RDF)
+* Things
+* Vocabularies
+* Eeek
+* DIY
+* Exercise
+
 # The Vision
+
+##
+
+![](i/creation.jpg)
+
+<div class="notes"> In the beginning was Tim Berners Lee </div>
 
 ## Now: Human-Readable
 
@@ -16,7 +38,48 @@ date: 17 June 2014
 
 ![](i/Terminator_Eyes.jpg)
 
-# Break It Apart
+# How Computers See the Web
+
+## The Thing
+
+<div class="notes"> Physical objects aren't computable </div>
+
+## The Treachery of Images
+
+![](i/ma-31824080-WEB.jpg)
+
+<div class="notes"> Images are kind of computable </div>
+
+##
+
+![](i/HTML5_Logo.svg)
+
+<div class="notes"> Easy for people, brittle for machines </div>
+
+##
+
+![](i/banner.jpg)
+
+<div class="notes">
+Better, structured, inflexible
+
+* One schema to rule them all.
+* One block of data.
+* One type of data.
+
+</div>
+
+# The Semantic Web
+
+## We Were Promised
+
+![](i/Jetsons.jpg)
+
+## But We Got
+
+![](i/lod-datasets_2009-07-14_cropped.png)
+
+# Break It Down
 
 ## *Linked* Data
 
@@ -111,19 +174,49 @@ Not all or nothing.
 
 ![](i/Proxy.jpg)
 
+## Not a File Format
+
+* RDF/XML
+* N3
+* Turtle
+
 ## Simple Statements
 
 > * Subject
 > * Predicate
 > * Object
 
-## Shared Vocabularies
+# *Things*
 
-## Not a File Format
+## Is not Its Name
 
-* RDF/XML
-* N3
-* Turtle
+![](i/the-thing-poster1.jpg)
+
+## Is Its URI
+
+![](i/Thing_1991.jpg)
+
+## Subjects: URIs
+
+![](i/Beware_of_the_thing.jpg)
+
+## Predicates: URIs
+
+![](i/thing1-and-2.jpg)
+
+## Objects: URIs, Values
+
+![](i/Thing3Thing4.png)
+
+# Shared Vocabularies
+
+## FOAF
+
+##
+
+![](i/me-foaf.png)
+
+# Eeek
 
 ## The Main Point?
 
