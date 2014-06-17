@@ -17,7 +17,7 @@ date: 17 June 2014
 * The Universe
 * Resource Description Framework (RDF)
 * Things
-* Vocabularies
+* Shared Vocabularies
 * Eeek
 * DIY
 * Exercise
@@ -215,6 +215,8 @@ Not all or nothing.
 ##
 
 ![](i/me-foaf.png)
+
+## Dublin Core
 
 # Eeek
 
